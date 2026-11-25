@@ -6,3 +6,5 @@ dist/
 data/raw/
 data/screenshots/
 data/*.log
+
+.vercel

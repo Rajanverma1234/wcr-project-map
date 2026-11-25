@@ -1,0 +1,5434 @@
+[
+ {
+  "id": "osm:node/7018886732",
+  "name": "Arjan Garh",
+  "category": "metro",
+  "lat": 28.480735,
+  "lng": 77.125762,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1988848864",
+  "name": "Belvedere Towers",
+  "category": "metro",
+  "lat": 28.491702,
+  "lng": 77.088132,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13289640468",
+  "name": "Cyber City",
+  "category": "metro",
+  "lat": 28.49807,
+  "lng": 77.089257,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/554257763",
+  "name": "Delhi Aerocity",
+  "category": "metro",
+  "lat": 28.548779,
+  "lng": 77.120795,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/3953773571",
+  "name": "DLF Phase 1",
+  "category": "metro",
+  "lat": 28.471426,
+  "lng": 77.093961,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1988848882",
+  "name": "DLF Phase 2",
+  "category": "metro",
+  "lat": 28.48756,
+  "lng": 77.092991,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6539894862",
+  "name": "Dwarka Sector 21",
+  "category": "metro",
+  "lat": 28.551922,
+  "lng": 77.05856,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7018886731",
+  "name": "Ghitorni",
+  "category": "metro",
+  "lat": 28.493751,
+  "lng": 77.149187,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7018301879",
+  "name": "Guru Dronacharya",
+  "category": "metro",
+  "lat": 28.482021,
+  "lng": 77.102268,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7018301882",
+  "name": "IFFCO Chowk",
+  "category": "metro",
+  "lat": 28.472328,
+  "lng": 77.072422,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/927873494",
+  "name": "IGI Airport",
+  "category": "metro",
+  "lat": 28.556463,
+  "lng": 77.086699,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7018301881",
+  "name": "M G Road",
+  "category": "metro",
+  "lat": 28.479554,
+  "lng": 77.079893,
+  "source": "osm"
+ },
+ {
+  "id": "manual:millennium-city-centre-metro",
+  "name": "Millennium City Centre (HUDA City Centre) Metro",
+  "category": "metro",
+  "lat": 28.4593429,
+  "lng": 77.0726571,
+  "source": "manual"
+ },
+ {
+  "id": "osm:node/2533456421",
+  "name": "Moulsari Avenue",
+  "category": "metro",
+  "lat": 28.500778,
+  "lng": 77.094631,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/2533456422",
+  "name": "Phase 3",
+  "category": "metro",
+  "lat": 28.493568,
+  "lng": 77.093661,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/3181132346",
+  "name": "Sector 42-43",
+  "category": "metro",
+  "lat": 28.457425,
+  "lng": 77.096953,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1316295260",
+  "name": "Sector 53/54",
+  "category": "metro",
+  "lat": 28.446419,
+  "lng": 77.100384,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/3181132316",
+  "name": "Sector 54 Chowk",
+  "category": "metro",
+  "lat": 28.432977,
+  "lng": 77.104897,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/3953773598",
+  "name": "Sector 55–56",
+  "category": "metro",
+  "lat": 28.423356,
+  "lng": 77.105133,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/535297593",
+  "name": "Sikanderpur",
+  "category": "metro",
+  "lat": 28.481272,
+  "lng": 77.093002,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11203142798",
+  "name": "Yashobhoomi Dwarka Sector 25",
+  "category": "metro",
+  "lat": 28.550832,
+  "lng": 77.045307,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/5698863055",
+  "name": "Basai Dhankot",
+  "category": "railway",
+  "lat": 28.464584,
+  "lng": 76.982817,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/941132747",
+  "name": "Bijwasan",
+  "category": "railway",
+  "lat": 28.536959,
+  "lng": 77.051289,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/2410174120",
+  "name": "Garhi Harsaru Junction",
+  "category": "railway",
+  "lat": 28.438298,
+  "lng": 76.930725,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1774430929",
+  "name": "Gurgaon",
+  "category": "railway",
+  "lat": 28.489087,
+  "lng": 77.011157,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/3736001854",
+  "name": "Palam Vihar",
+  "category": "railway",
+  "lat": 28.516466,
+  "lng": 77.03397,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6388592702",
+  "name": "Patli",
+  "category": "railway",
+  "lat": 28.401077,
+  "lng": 76.857079,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/3735982884",
+  "name": "Sultanpur Kaliawas",
+  "category": "railway",
+  "lat": 28.460456,
+  "lng": 76.869675,
+  "source": "osm"
+ },
+ {
+  "id": "manual:igi-airport-terminal-3",
+  "name": "IGI Airport (Terminal 3)",
+  "category": "airport",
+  "lat": 28.5548742,
+  "lng": 77.0841684,
+  "source": "manual"
+ },
+ {
+  "id": "osm:way/1551937596",
+  "name": "AIPL Joy Central",
+  "category": "mall",
+  "lat": 28.405005,
+  "lng": 77.060677,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/273714331",
+  "name": "AIPL Joy Street",
+  "category": "mall",
+  "lat": 28.392089,
+  "lng": 77.059376,
+  "source": "osm"
+ },
+ {
+  "id": "manual:ambience-mall",
+  "name": "Ambience Mall",
+  "category": "mall",
+  "lat": 28.5042019,
+  "lng": 77.0969541,
+  "source": "manual"
+ },
+ {
+  "id": "osm:way/272612959",
+  "name": "Ardee Mall",
+  "category": "mall",
+  "lat": 28.445164,
+  "lng": 77.080803,
+  "source": "osm"
+ },
+ {
+  "id": "manual:dlf-cyber-hub",
+  "name": "DLF Cyber Hub",
+  "category": "mall",
+  "lat": 28.4951011,
+  "lng": 77.0885127,
+  "source": "manual"
+ },
+ {
+  "id": "osm:node/266687182",
+  "name": "DLF Galleria",
+  "category": "mall",
+  "lat": 28.467302,
+  "lng": 77.082049,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/42946057",
+  "name": "DLF Mega Mall",
+  "category": "mall",
+  "lat": 28.475924,
+  "lng": 77.09313,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/144358926",
+  "name": "DT City Center",
+  "category": "mall",
+  "lat": 28.4788,
+  "lng": 77.080548,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/266639968",
+  "name": "Gold Souk",
+  "category": "mall",
+  "lat": 28.450744,
+  "lng": 77.078718,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/144358732",
+  "name": "Grand Mall",
+  "category": "mall",
+  "lat": 28.479856,
+  "lng": 77.090083,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/151993531",
+  "name": "Gurgaon Central",
+  "category": "mall",
+  "lat": 28.479566,
+  "lng": 77.075647,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1539973142",
+  "name": "HighStreet 52",
+  "category": "mall",
+  "lat": 28.434552,
+  "lng": 77.071842,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/3068041589",
+  "name": "Hong Kong Bazaar Mall",
+  "category": "mall",
+  "lat": 28.420956,
+  "lng": 77.090457,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/387467888",
+  "name": "ILD Mall",
+  "category": "mall",
+  "lat": 28.424915,
+  "lng": 77.039113,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/144358734",
+  "name": "JMD Empire Square",
+  "category": "mall",
+  "lat": 28.479331,
+  "lng": 77.09073,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/43022517",
+  "name": "JMD Regent Plaza",
+  "category": "mall",
+  "lat": 28.47972,
+  "lng": 77.088554,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11873060518",
+  "name": "M3M Corner Walk",
+  "category": "mall",
+  "lat": 28.401489,
+  "lng": 77.007643,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/349831017",
+  "name": "Mall Fifty One",
+  "category": "mall",
+  "lat": 28.4351,
+  "lng": 77.068289,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/144358733",
+  "name": "MGF Mega City",
+  "category": "mall",
+  "lat": 28.479684,
+  "lng": 77.089413,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/144358928",
+  "name": "MGF Megapolis Mall",
+  "category": "mall",
+  "lat": 28.478661,
+  "lng": 77.082296,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1374529955",
+  "name": "MGF Metropolitan",
+  "category": "mall",
+  "lat": 28.480727,
+  "lng": 77.080245,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/761818270",
+  "name": "Nirvana Courtyard",
+  "category": "mall",
+  "lat": 28.414156,
+  "lng": 77.065825,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/634122978",
+  "name": "Ocus Quantum",
+  "category": "mall",
+  "lat": 28.425131,
+  "lng": 77.068456,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11394393343",
+  "name": "Pacific D21 Mall",
+  "category": "mall",
+  "lat": 28.552638,
+  "lng": 77.058382,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1465783071",
+  "name": "Paradise Mall",
+  "category": "mall",
+  "lat": 28.411953,
+  "lng": 77.05072,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4656583163",
+  "name": "Raheja Mall",
+  "category": "mall",
+  "lat": 28.423551,
+  "lng": 77.039506,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1574010363",
+  "name": "ROF Portico",
+  "category": "mall",
+  "lat": 28.453104,
+  "lng": 77.082209,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/144358735",
+  "name": "Sahara Mall",
+  "category": "mall",
+  "lat": 28.4796,
+  "lng": 77.086599,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/351610100",
+  "name": "Saphhire Mall",
+  "category": "mall",
+  "lat": 28.411775,
+  "lng": 77.048733,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11965720309",
+  "name": "Satya The Hive",
+  "category": "mall",
+  "lat": 28.471482,
+  "lng": 76.963199,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/633214442",
+  "name": "South Point Mall",
+  "category": "mall",
+  "lat": 28.44795,
+  "lng": 77.099174,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/44172408",
+  "name": "Star Mall",
+  "category": "mall",
+  "lat": 28.461382,
+  "lng": 77.052678,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1254261905",
+  "name": "The Esplanade Mall",
+  "category": "mall",
+  "lat": 28.453487,
+  "lng": 76.992337,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13860537412",
+  "name": "Aarogya Hospital",
+  "category": "hospital",
+  "lat": 28.361209,
+  "lng": 77.075552,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7010125928",
+  "name": "Aarvy Hospital",
+  "category": "hospital",
+  "lat": 28.457393,
+  "lng": 77.030091,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/415212104",
+  "name": "AB Hospitals",
+  "category": "hospital",
+  "lat": 28.468526,
+  "lng": 77.051876,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7009892483",
+  "name": "Ahmed Hospital Multi Speciality",
+  "category": "hospital",
+  "lat": 28.458033,
+  "lng": 77.041248,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7168803716",
+  "name": "Airforce Hospital",
+  "category": "hospital",
+  "lat": 28.435371,
+  "lng": 77.023442,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11868133252",
+  "name": "Airport Health Organization",
+  "category": "hospital",
+  "lat": 28.544506,
+  "lng": 77.115956,
+  "source": "osm"
+ },
+ {
+  "id": "osm:relation/11582485",
+  "name": "All India Institute of Medical Sciences - AIIMS Jhajjar",
+  "category": "hospital",
+  "lat": 28.503411,
+  "lng": 76.872288,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6071092569",
+  "name": "Anahat Hospital",
+  "category": "hospital",
+  "lat": 28.48324,
+  "lng": 77.10713,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6991634425",
+  "name": "Anand Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.42578,
+  "lng": 77.09168,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7002997882",
+  "name": "Apollo Cradle Hospital,Gurgaon",
+  "category": "hospital",
+  "lat": 28.478646,
+  "lng": 77.047436,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7009675990",
+  "name": "Arihant Hospital",
+  "category": "hospital",
+  "lat": 28.448605,
+  "lng": 77.082441,
+  "source": "osm"
+ },
+ {
+  "id": "manual:artemis-hospital",
+  "name": "Artemis Hospital",
+  "category": "hospital",
+  "lat": 28.4311271,
+  "lng": 77.0718163,
+  "source": "manual",
+  "major": true
+ },
+ {
+  "id": "osm:node/7009221079",
+  "name": "Arunodaya Deseret Eye Hospital",
+  "category": "hospital",
+  "lat": 28.427774,
+  "lng": 77.108764,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997916397",
+  "name": "Aryan Hospital",
+  "category": "hospital",
+  "lat": 28.469559,
+  "lng": 77.019504,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/477905070",
+  "name": "Astha Hospital",
+  "category": "hospital",
+  "lat": 28.350926,
+  "lng": 77.064921,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997912505",
+  "name": "Ayushman Hospital And Trauma Centre",
+  "category": "hospital",
+  "lat": 28.437909,
+  "lng": 77.011046,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7010591317",
+  "name": "Bhardwaj Hospital",
+  "category": "hospital",
+  "lat": 28.490189,
+  "lng": 77.006832,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13996916117",
+  "name": "Center For Sight",
+  "category": "hospital",
+  "lat": 28.426239,
+  "lng": 77.059226,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7001218513",
+  "name": "Centre For Sight, Gurgaon, New Railway Road",
+  "category": "hospital",
+  "lat": 28.468287,
+  "lng": 77.026029,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7622826291",
+  "name": "Children Hospital",
+  "category": "hospital",
+  "lat": 28.475056,
+  "lng": 77.034867,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997700192",
+  "name": "Chirag Hospital Pvt. Ltd",
+  "category": "hospital",
+  "lat": 28.495353,
+  "lng": 77.011409,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6994541473",
+  "name": "Chiranjiv Hospital",
+  "category": "hospital",
+  "lat": 28.464454,
+  "lng": 77.018736,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1646596545",
+  "name": "Civil Hospital",
+  "category": "hospital",
+  "lat": 28.248504,
+  "lng": 77.07145,
+  "source": "osm"
+ },
+ {
+  "id": "manual:civil-hospital-gurugram",
+  "name": "Civil Hospital Gurugram",
+  "category": "hospital",
+  "lat": 28.4561622,
+  "lng": 76.9968009,
+  "source": "manual",
+  "major": true
+ },
+ {
+  "id": "osm:node/7168803872",
+  "name": "Civil Hospital Sohna",
+  "category": "hospital",
+  "lat": 28.249546,
+  "lng": 77.068584,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7168803857",
+  "name": "Civil Hospital Tauru",
+  "category": "hospital",
+  "lat": 28.211129,
+  "lng": 76.945592,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1533933372",
+  "name": "CK Birla Hospital Gurgaon",
+  "category": "hospital",
+  "lat": 28.423665,
+  "lng": 77.061559,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7545203244",
+  "name": "Deepan Hospital",
+  "category": "hospital",
+  "lat": 28.530033,
+  "lng": 77.08489,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6998006318",
+  "name": "Ekta Hospital",
+  "category": "hospital",
+  "lat": 28.3981,
+  "lng": 77.045374,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/9985453891",
+  "name": "ESI hospital",
+  "category": "hospital",
+  "lat": 28.468256,
+  "lng": 77.001309,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7168803920",
+  "name": "Esic Hospital, Gurugram",
+  "category": "hospital",
+  "lat": 28.468102,
+  "lng": 77.001359,
+  "source": "osm"
+ },
+ {
+  "id": "manual:fortis-memorial-research-institute",
+  "name": "Fortis Memorial Research Institute",
+  "category": "hospital",
+  "lat": 28.4571214,
+  "lng": 77.072768,
+  "source": "manual",
+  "major": true
+ },
+ {
+  "id": "osm:node/7622826310",
+  "name": "Gautam Hospital",
+  "category": "hospital",
+  "lat": 28.442666,
+  "lng": 77.008965,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7168803799",
+  "name": "GH Gurgaon",
+  "category": "hospital",
+  "lat": 28.474246,
+  "lng": 77.027117,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/477905079",
+  "name": "Gobind Hospital",
+  "category": "hospital",
+  "lat": 28.390522,
+  "lng": 77.049117,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7002954086",
+  "name": "Gupta Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.464425,
+  "lng": 77.026883,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/190333646",
+  "name": "Indian Spinal Injuries Centre",
+  "category": "hospital",
+  "lat": 28.5324,
+  "lng": 77.142065,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7002991292",
+  "name": "Jackson Hospital",
+  "category": "hospital",
+  "lat": 28.469149,
+  "lng": 77.028682,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11598703517",
+  "name": "Jain Hospital",
+  "category": "hospital",
+  "lat": 28.428428,
+  "lng": 77.058622,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6998006337",
+  "name": "Jain Sant Phool Chand Ji Charitable Hospital",
+  "category": "hospital",
+  "lat": 28.477157,
+  "lng": 77.015893,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7008343539",
+  "name": "Jeevan Jyoti Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.476379,
+  "lng": 77.035029,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13860538411",
+  "name": "Jeeven Hospital and Surgical Centre",
+  "category": "hospital",
+  "lat": 28.361196,
+  "lng": 77.075023,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997221454",
+  "name": "Kalyan Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.506102,
+  "lng": 77.022252,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6994099950",
+  "name": "Kalyani Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.467837,
+  "lng": 77.04227,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7008444605",
+  "name": "Kamal Hospital and Maternity Centre",
+  "category": "hospital",
+  "lat": 28.38872,
+  "lng": 77.050163,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7007531446",
+  "name": "Kamla Hospital",
+  "category": "hospital",
+  "lat": 28.446446,
+  "lng": 76.991583,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6998114433",
+  "name": "Kathuria Hospital",
+  "category": "hospital",
+  "lat": 28.453413,
+  "lng": 77.019991,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7008219482",
+  "name": "Kriti Hospital",
+  "category": "hospital",
+  "lat": 28.42496,
+  "lng": 77.093567,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7622826344",
+  "name": "Lal Superspeciality Hospital",
+  "category": "hospital",
+  "lat": 28.457779,
+  "lng": 77.016731,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7009225899",
+  "name": "Lord Krishna Hospital",
+  "category": "hospital",
+  "lat": 28.478507,
+  "lng": 77.085429,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997700220",
+  "name": "Lotus Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.469286,
+  "lng": 77.034447,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7007695184",
+  "name": "M Goel Hospital",
+  "category": "hospital",
+  "lat": 28.467508,
+  "lng": 77.027738,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7010444206",
+  "name": "M.S Hospital",
+  "category": "hospital",
+  "lat": 28.464059,
+  "lng": 77.021856,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7010444201",
+  "name": "Mamta Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.469724,
+  "lng": 77.03381,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997700322",
+  "name": "Mangalam Hospital and Heart Centre",
+  "category": "hospital",
+  "lat": 28.453985,
+  "lng": 77.013931,
+  "source": "osm"
+ },
+ {
+  "id": "manual:manipal-hospital-gurugram",
+  "name": "Manipal Hospital Gurugram (Palam Vihar)",
+  "category": "hospital",
+  "lat": 28.5091843,
+  "lng": 77.0413917,
+  "source": "manual",
+  "major": true
+ },
+ {
+  "id": "manual:max-hospital-gurugram",
+  "name": "Max Hospital Gurugram",
+  "category": "hospital",
+  "lat": 28.4613236,
+  "lng": 77.0747246,
+  "source": "manual",
+  "major": true
+ },
+ {
+  "id": "osm:way/269803710",
+  "name": "Mayom Hospital",
+  "category": "hospital",
+  "lat": 28.457977,
+  "lng": 77.063622,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13243279487",
+  "name": "Medanta",
+  "category": "hospital",
+  "lat": 28.463525,
+  "lng": 77.09453,
+  "source": "osm"
+ },
+ {
+  "id": "manual:medanta-the-medicity",
+  "name": "Medanta – The Medicity",
+  "category": "hospital",
+  "lat": 28.4389467,
+  "lng": 77.0402727,
+  "source": "manual",
+  "major": true
+ },
+ {
+  "id": "osm:way/1153427860",
+  "name": "Metro Hospital & Heart Institute",
+  "category": "hospital",
+  "lat": 28.518172,
+  "lng": 77.038985,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4212577545",
+  "name": "Metro Hospital and Heart Institute, Gurgaon",
+  "category": "hospital",
+  "lat": 28.518174,
+  "lng": 77.038823,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7008691154",
+  "name": "Nangia Hospital Ent and Maternity",
+  "category": "hospital",
+  "lat": 28.45582,
+  "lng": 77.021873,
+  "source": "osm"
+ },
+ {
+  "id": "manual:narayana-superspeciality-hospital",
+  "name": "Narayana Superspeciality Hospital",
+  "category": "hospital",
+  "lat": 28.4981571,
+  "lng": 77.1017103,
+  "source": "manual",
+  "major": true
+ },
+ {
+  "id": "osm:node/6993917647",
+  "name": "Navjeevan Hospital and Maternity Centre",
+  "category": "hospital",
+  "lat": 28.457161,
+  "lng": 77.01431,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/38106806",
+  "name": "Neelkanth Hospital Pvt. Ltd",
+  "category": "hospital",
+  "lat": 28.483357,
+  "lng": 77.107626,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7622826315",
+  "name": "Nidan Hospital and Trauma Centre",
+  "category": "hospital",
+  "lat": 28.372893,
+  "lng": 76.895649,
+  "source": "osm"
+ },
+ {
+  "id": "manual:paras-hospital-gurugram",
+  "name": "Paras Hospital Gurugram",
+  "category": "hospital",
+  "lat": 28.4511213,
+  "lng": 77.0875949,
+  "source": "manual",
+  "major": true
+ },
+ {
+  "id": "osm:node/7010842699",
+  "name": "Parashar Hospital",
+  "category": "hospital",
+  "lat": 28.453932,
+  "lng": 77.02043,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6993926819",
+  "name": "Park Hospital Gurgaon",
+  "category": "hospital",
+  "lat": 28.420136,
+  "lng": 77.048726,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6993931828",
+  "name": "Pasricha Hospital and Maternity Home",
+  "category": "hospital",
+  "lat": 28.456881,
+  "lng": 77.022279,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7622826362",
+  "name": "Prakash Hospital",
+  "category": "hospital",
+  "lat": 28.356134,
+  "lng": 76.937794,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6994248249",
+  "name": "Privat Hospital",
+  "category": "hospital",
+  "lat": 28.479795,
+  "lng": 77.074691,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/414735815",
+  "name": "Pushpanjali Hospital",
+  "category": "hospital",
+  "lat": 28.450813,
+  "lng": 77.032845,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997688587",
+  "name": "Pushpanjali Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.450097,
+  "lng": 77.032783,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13651219701",
+  "name": "Queen’s Multispeciality Hospital",
+  "category": "hospital",
+  "lat": 28.388491,
+  "lng": 76.979027,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7003011058",
+  "name": "R K Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.493087,
+  "lng": 77.008835,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7008078166",
+  "name": "Rajendra Hospital",
+  "category": "hospital",
+  "lat": 28.449543,
+  "lng": 77.021128,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997714637",
+  "name": "Rajiv Memorial Eye Infirmary, Jacobpura",
+  "category": "hospital",
+  "lat": 28.462476,
+  "lng": 77.027663,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997941837",
+  "name": "Rama Hospital & Nursing Home",
+  "category": "hospital",
+  "lat": 28.456726,
+  "lng": 77.023078,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7010591318",
+  "name": "Rathore Imt Hospital",
+  "category": "hospital",
+  "lat": 28.374334,
+  "lng": 76.905335,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/453862916",
+  "name": "RBS Hospital",
+  "category": "hospital",
+  "lat": 28.492901,
+  "lng": 77.097376,
+  "source": "osm"
+ },
+ {
+  "id": "osm:relation/5622389",
+  "name": "Rockland Hospital",
+  "category": "hospital",
+  "lat": 28.366756,
+  "lng": 76.932849,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997303635",
+  "name": "S.R.S. Hospital and Critical Care Unit",
+  "category": "hospital",
+  "lat": 28.403302,
+  "lng": 76.988159,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997926204",
+  "name": "Sai Dharamraj Hospital",
+  "category": "hospital",
+  "lat": 28.397002,
+  "lng": 77.045605,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/477905091",
+  "name": "Sai Heart and Trauma Center",
+  "category": "hospital",
+  "lat": 28.397875,
+  "lng": 77.04559,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/269904109",
+  "name": "Sanar International Hospital",
+  "category": "hospital",
+  "lat": 28.439411,
+  "lng": 77.102058,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997230529",
+  "name": "Sangwan Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.474994,
+  "lng": 77.056113,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6998051836",
+  "name": "Sanjeevani Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.39694,
+  "lng": 77.046572,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6991277967",
+  "name": "Saraswati Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.468648,
+  "lng": 77.038252,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6991277966",
+  "name": "Sarvodya Hospital",
+  "category": "hospital",
+  "lat": 28.477242,
+  "lng": 77.016411,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7001301856",
+  "name": "Satyam Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.460957,
+  "lng": 77.018005,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14297231725",
+  "name": "SCI Hospital",
+  "category": "hospital",
+  "lat": 28.461782,
+  "lng": 77.094801,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6993922158",
+  "name": "Sethi Hospital",
+  "category": "hospital",
+  "lat": 28.456587,
+  "lng": 77.020773,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1197498942",
+  "name": "SGT Medical College Hospital & Research Institute",
+  "category": "hospital",
+  "lat": 28.477804,
+  "lng": 76.903475,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6991290274",
+  "name": "Sharma Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.461801,
+  "lng": 77.027472,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/59339757",
+  "name": "Sheetla Hospital And Eye Institute Private Ltd",
+  "category": "hospital",
+  "lat": 28.468058,
+  "lng": 77.025522,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13859390101",
+  "name": "Shivam Hospital",
+  "category": "hospital",
+  "lat": 28.369715,
+  "lng": 77.080848,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997714626",
+  "name": "Shivam Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.45747,
+  "lng": 77.053698,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7009891516",
+  "name": "Shivam Hospital, Mewat",
+  "category": "hospital",
+  "lat": 28.210043,
+  "lng": 76.93978,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6991278237",
+  "name": "Shree Krishna Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.47333,
+  "lng": 77.003265,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6991311535",
+  "name": "Shri Balaji Hospital and Trauma Center",
+  "category": "hospital",
+  "lat": 28.440911,
+  "lng": 76.980076,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6991349886",
+  "name": "Shri Balaji`S Multispeciality Hospital",
+  "category": "hospital",
+  "lat": 28.457728,
+  "lng": 76.990982,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7622826345",
+  "name": "Shri Gobind Hospital",
+  "category": "hospital",
+  "lat": 28.458009,
+  "lng": 77.016405,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7010125933",
+  "name": "Shri Ram Memorial Hospital",
+  "category": "hospital",
+  "lat": 28.493635,
+  "lng": 77.099508,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6994092369",
+  "name": "Shubham Hospital",
+  "category": "hospital",
+  "lat": 28.456744,
+  "lng": 77.021065,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14051699325",
+  "name": "Shyam Hospital",
+  "category": "hospital",
+  "lat": 28.399773,
+  "lng": 76.875308,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13860542301",
+  "name": "Shyam Kunj Hospital",
+  "category": "hospital",
+  "lat": 28.361014,
+  "lng": 77.075964,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6994329594",
+  "name": "Sidhesh Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.475244,
+  "lng": 77.082425,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1371226158",
+  "name": "Sitaram Bhartia",
+  "category": "hospital",
+  "lat": 28.467508,
+  "lng": 77.082474,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6991532456",
+  "name": "Siyaram Hospital",
+  "category": "hospital",
+  "lat": 28.354777,
+  "lng": 76.933428,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997832575",
+  "name": "Sneh Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.482367,
+  "lng": 77.014155,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997845822",
+  "name": "Sona Devi Memorial Hospital and Trauma Centre",
+  "category": "hospital",
+  "lat": 28.396687,
+  "lng": 77.046496,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997700282",
+  "name": "Sparsh Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.47013,
+  "lng": 77.022686,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7622826267",
+  "name": "St Stephen's Hospital Health Care Facility",
+  "category": "hospital",
+  "lat": 28.485499,
+  "lng": 77.104817,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7003011057",
+  "name": "Sukhmani Hospital Pvt. Ltd",
+  "category": "hospital",
+  "lat": 28.434225,
+  "lng": 77.048146,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7008020087",
+  "name": "Sunrise Hospital",
+  "category": "hospital",
+  "lat": 28.442834,
+  "lng": 77.010618,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6993926207",
+  "name": "Surgicare Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.427236,
+  "lng": 77.094081,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14021844294",
+  "name": "T.R.U.E Hospitals",
+  "category": "hospital",
+  "lat": 28.435379,
+  "lng": 77.071673,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997631317",
+  "name": "Taneja Hospital",
+  "category": "hospital",
+  "lat": 28.466322,
+  "lng": 77.013861,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997568727",
+  "name": "Thukral Hospital",
+  "category": "hospital",
+  "lat": 28.481435,
+  "lng": 77.065396,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7000653109",
+  "name": "Tirath Ram Hospitals Pvt Ltd",
+  "category": "hospital",
+  "lat": 28.457085,
+  "lng": 77.02016,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997600243",
+  "name": "Triveni Hospital, Gurgaon",
+  "category": "hospital",
+  "lat": 28.463775,
+  "lng": 77.022188,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6994228914",
+  "name": "Uma Sanjeevani Health Centre And Hospital",
+  "category": "hospital",
+  "lat": 28.481487,
+  "lng": 77.08632,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6997463000",
+  "name": "Umkal Hospital",
+  "category": "hospital",
+  "lat": 28.471529,
+  "lng": 77.07331,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6993972307",
+  "name": "Vardaan Hospital and Trauma Centre",
+  "category": "hospital",
+  "lat": 28.246854,
+  "lng": 77.072848,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11769497940",
+  "name": "Verizon Hospital",
+  "category": "hospital",
+  "lat": 28.439986,
+  "lng": 77.0705,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7002943647",
+  "name": "Verma E.N.T. Hospital",
+  "category": "hospital",
+  "lat": 28.465207,
+  "lng": 77.028071,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7008960818",
+  "name": "Vinayak Hospital",
+  "category": "hospital",
+  "lat": 28.454339,
+  "lng": 77.021486,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/127245642",
+  "name": "World Laparoscopy Hospital",
+  "category": "hospital",
+  "lat": 28.49456,
+  "lng": 77.091675,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7008475347",
+  "name": "Yadav Hospital, Gurgoan",
+  "category": "hospital",
+  "lat": 28.443219,
+  "lng": 77.003162,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4493652690",
+  "name": "السكن",
+  "category": "hospital",
+  "lat": 28.446077,
+  "lng": 77.061569,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10750336512",
+  "name": "Aadyant",
+  "category": "school",
+  "lat": 28.532461,
+  "lng": 77.149845,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13864587502",
+  "name": "AJP Group of International Education",
+  "category": "school",
+  "lat": 28.363752,
+  "lng": 77.08136,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1270574322",
+  "name": "Alpine Convent School, Sector 10",
+  "category": "school",
+  "lat": 28.455738,
+  "lng": 76.993873,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1195003750",
+  "name": "Ambience Public School",
+  "category": "school",
+  "lat": 28.452931,
+  "lng": 77.094328,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/45769377",
+  "name": "Amity Global School",
+  "category": "school",
+  "lat": 28.434047,
+  "lng": 77.063059,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/266639961",
+  "name": "Amity School",
+  "category": "school",
+  "lat": 28.454793,
+  "lng": 77.076808,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1173097758",
+  "name": "Angels Palace International School",
+  "category": "school",
+  "lat": 28.23239,
+  "lng": 77.112069,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1408770649",
+  "name": "Ashoka International School",
+  "category": "school",
+  "lat": 28.391317,
+  "lng": 77.054786,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/2019345544",
+  "name": "Bharat Vasisht Vidya Mandir",
+  "category": "school",
+  "lat": 28.471716,
+  "lng": 77.128574,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/189075005",
+  "name": "Blue Bells Model Sr. Sec. School",
+  "category": "school",
+  "lat": 28.478096,
+  "lng": 77.011672,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13848989425",
+  "name": "Bright Future World School",
+  "category": "school",
+  "lat": 28.366314,
+  "lng": 77.076384,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1518293069",
+  "name": "CD School",
+  "category": "school",
+  "lat": 28.362987,
+  "lng": 77.07543,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1165663843",
+  "name": "Chalk Tree Global School",
+  "category": "school",
+  "lat": 28.425235,
+  "lng": 77.072133,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4212577542",
+  "name": "Chiranjiv Bharati School",
+  "category": "school",
+  "lat": 28.51946,
+  "lng": 77.037658,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/189075001",
+  "name": "Colonel's Central Academy",
+  "category": "school",
+  "lat": 28.47688,
+  "lng": 77.005093,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/312101690",
+  "name": "CR Model Public School",
+  "category": "school",
+  "lat": 28.446311,
+  "lng": 77.045873,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1251555213",
+  "name": "DAV Public School",
+  "category": "school",
+  "lat": 28.408699,
+  "lng": 77.048559,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/190041783",
+  "name": "Dav School",
+  "category": "school",
+  "lat": 28.443311,
+  "lng": 77.008273,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/189450635",
+  "name": "Delhi English Academy Public School",
+  "category": "school",
+  "lat": 28.553581,
+  "lng": 77.0378,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/34940768",
+  "name": "Delhi Public School",
+  "category": "school",
+  "lat": 28.441745,
+  "lng": 77.064596,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/984449826",
+  "name": "Delhi Public School",
+  "category": "school",
+  "lat": 28.360411,
+  "lng": 77.078374,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1521272164",
+  "name": "Delhi Public School",
+  "category": "school",
+  "lat": 28.355916,
+  "lng": 77.076865,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4047437964",
+  "name": "Delhi Public School",
+  "category": "school",
+  "lat": 28.538625,
+  "lng": 77.147989,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/312101676",
+  "name": "Delhi Public School, Primary Section",
+  "category": "school",
+  "lat": 28.429535,
+  "lng": 77.052531,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11688160111",
+  "name": "Deshraj public school",
+  "category": "school",
+  "lat": 28.5117,
+  "lng": 77.107604,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1270565221",
+  "name": "Dharav High School",
+  "category": "school",
+  "lat": 28.428165,
+  "lng": 77.067009,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1512461198",
+  "name": "Doon Global School",
+  "category": "school",
+  "lat": 28.366067,
+  "lng": 77.078203,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13860656902",
+  "name": "Doon Valley International School",
+  "category": "school",
+  "lat": 28.364293,
+  "lng": 77.073846,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/133485167",
+  "name": "DPS Infant Wing (Sec-40)",
+  "category": "school",
+  "lat": 28.450028,
+  "lng": 77.052525,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1172655042",
+  "name": "DPS International",
+  "category": "school",
+  "lat": 28.409096,
+  "lng": 77.062736,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1578420116",
+  "name": "DPS SEC-84",
+  "category": "school",
+  "lat": 28.407045,
+  "lng": 76.960321,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/418558610",
+  "name": "Educare School",
+  "category": "school",
+  "lat": 28.425434,
+  "lng": 77.065509,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/415208190",
+  "name": "EURO Global School",
+  "category": "school",
+  "lat": 28.42446,
+  "lng": 77.060812,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1166772791",
+  "name": "Euro International School",
+  "category": "school",
+  "lat": 28.424405,
+  "lng": 77.067054,
+  "source": "osm"
+ },
+ {
+  "id": "osm:relation/16545002",
+  "name": "Excelsior American School",
+  "category": "school",
+  "lat": 28.457217,
+  "lng": 77.088749,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/469563555",
+  "name": "G D Goenka World School",
+  "category": "school",
+  "lat": 28.267506,
+  "lng": 77.06423,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1236258245",
+  "name": "Garima Public School",
+  "category": "school",
+  "lat": 28.426372,
+  "lng": 77.067752,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1270694617",
+  "name": "GAV International School",
+  "category": "school",
+  "lat": 28.433478,
+  "lng": 77.072102,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1001318555",
+  "name": "GD Goenka Global School",
+  "category": "school",
+  "lat": 28.485841,
+  "lng": 77.101932,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/190041780",
+  "name": "GD Goenka Public School",
+  "category": "school",
+  "lat": 28.443664,
+  "lng": 77.003983,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/719598502",
+  "name": "GD Goenka Signature School",
+  "category": "school",
+  "lat": 28.268944,
+  "lng": 77.068986,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10899755627",
+  "name": "GMSSSS Sohna",
+  "category": "school",
+  "lat": 28.24878,
+  "lng": 77.069973,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13124497227",
+  "name": "Government Boys Model Sanskriti Primary School, Wazirabad",
+  "category": "school",
+  "lat": 28.434332,
+  "lng": 77.080397,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6071159159",
+  "name": "Government Boys Senior Secondary School",
+  "category": "school",
+  "lat": 28.489985,
+  "lng": 77.138963,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1257188608",
+  "name": "Government Boys Senior Secondary School Rajokari",
+  "category": "school",
+  "lat": 28.51823,
+  "lng": 77.109544,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/294301236",
+  "name": "Government Co-ed High School",
+  "category": "school",
+  "lat": 28.44747,
+  "lng": 77.145221,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/12139303963",
+  "name": "Government Girl Middle School",
+  "category": "school",
+  "lat": 28.427761,
+  "lng": 77.066451,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/273905316",
+  "name": "Government Girls Senior Secondary School",
+  "category": "school",
+  "lat": 28.388618,
+  "lng": 77.052994,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4351201299",
+  "name": "Government High School, Bilaspur",
+  "category": "school",
+  "lat": 28.286026,
+  "lng": 76.865964,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1172652103",
+  "name": "Government Middle School",
+  "category": "school",
+  "lat": 28.229124,
+  "lng": 77.12486,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/12139303964",
+  "name": "Government Model Sanskriti Primary School",
+  "category": "school",
+  "lat": 28.427743,
+  "lng": 77.066487,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13124497226",
+  "name": "Government Model Senior Secondary School, Wazirabad",
+  "category": "school",
+  "lat": 28.43457,
+  "lng": 77.079803,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/948054237",
+  "name": "Government Primary School",
+  "category": "school",
+  "lat": 28.333505,
+  "lng": 76.945183,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10681154094",
+  "name": "Government Primary School",
+  "category": "school",
+  "lat": 28.479273,
+  "lng": 77.084202,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/8900495608",
+  "name": "GOVERNMENT SCHOOL",
+  "category": "school",
+  "lat": 28.424425,
+  "lng": 77.144483,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1518562103",
+  "name": "Government Secondary School",
+  "category": "school",
+  "lat": 28.368055,
+  "lng": 77.082613,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/477905057",
+  "name": "Government Secondary School, Damdama",
+  "category": "school",
+  "lat": 28.302255,
+  "lng": 77.123813,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/266521622",
+  "name": "Government Senior Secondary School",
+  "category": "school",
+  "lat": 28.472404,
+  "lng": 77.092291,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/272869651",
+  "name": "Govt Model Sanskiriti Primary School",
+  "category": "school",
+  "lat": 28.438437,
+  "lng": 77.10758,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1811065365",
+  "name": "Govt Primary School DaryaPur",
+  "category": "school",
+  "lat": 28.552763,
+  "lng": 76.907542,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1810984760",
+  "name": "Govt Primary School Malik Pur",
+  "category": "school",
+  "lat": 28.551102,
+  "lng": 76.899946,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/169848648",
+  "name": "Govt School",
+  "category": "school",
+  "lat": 28.548149,
+  "lng": 76.898914,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/2906769891",
+  "name": "govt sec school",
+  "category": "school",
+  "lat": 28.461863,
+  "lng": 77.032742,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/174767576",
+  "name": "Govt. Senior Secondary School Malikpur",
+  "category": "school",
+  "lat": 28.550702,
+  "lng": 76.905595,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/266577917",
+  "name": "Gurgaon Valley School",
+  "category": "school",
+  "lat": 28.484927,
+  "lng": 77.089337,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/273911358",
+  "name": "Heritage Xperiential Learning School",
+  "category": "school",
+  "lat": 28.409646,
+  "lng": 77.087688,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/42310648",
+  "name": "iDiscovery School",
+  "category": "school",
+  "lat": 28.430496,
+  "lng": 77.056808,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/166639862",
+  "name": "K.R. Mangalam World School",
+  "category": "school",
+  "lat": 28.460083,
+  "lng": 77.066078,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1390067640",
+  "name": "Kamla International",
+  "category": "school",
+  "lat": 28.418088,
+  "lng": 77.0612,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7624464956",
+  "name": "Kendriya Vidyalaya No.2 Sohna Road",
+  "category": "school",
+  "lat": 28.43885,
+  "lng": 77.029158,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/9101862654",
+  "name": "KIIT school",
+  "category": "school",
+  "lat": 28.362397,
+  "lng": 77.06602,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13860656903",
+  "name": "Kota Kidz Public School",
+  "category": "school",
+  "lat": 28.364543,
+  "lng": 77.074061,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/266156911",
+  "name": "Kunskapsskolan",
+  "category": "school",
+  "lat": 28.478183,
+  "lng": 77.087722,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1254284063",
+  "name": "Kunskapsskolan International",
+  "category": "school",
+  "lat": 28.383369,
+  "lng": 77.009666,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/267276499",
+  "name": "Lancer's International",
+  "category": "school",
+  "lat": 28.445348,
+  "lng": 77.094934,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6071159494",
+  "name": "Lieutenant Atul Kataria School",
+  "category": "school",
+  "lat": 28.478346,
+  "lng": 77.033717,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1172653722",
+  "name": "Lotus Valley International School",
+  "category": "school",
+  "lat": 28.416027,
+  "lng": 77.069141,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1387719421",
+  "name": "Manav Rachna International School",
+  "category": "school",
+  "lat": 28.422072,
+  "lng": 77.060588,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1218692058",
+  "name": "Manav Rachna International School, Sector 46",
+  "category": "school",
+  "lat": 28.438213,
+  "lng": 77.059847,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1521272163",
+  "name": "Mariya Gold Public School",
+  "category": "school",
+  "lat": 28.356454,
+  "lng": 77.076979,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13941652601",
+  "name": "Marudyan School",
+  "category": "school",
+  "lat": 28.461939,
+  "lng": 77.004749,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13860538406",
+  "name": "Modern Era Public School",
+  "category": "school",
+  "lat": 28.367747,
+  "lng": 77.078067,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/414109910",
+  "name": "Modern School",
+  "category": "school",
+  "lat": 28.49136,
+  "lng": 77.099509,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1533470917",
+  "name": "Narayana eTechno School",
+  "category": "school",
+  "lat": 28.41797,
+  "lng": 77.055491,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/189450636",
+  "name": "New Era Public School",
+  "category": "school",
+  "lat": 28.556294,
+  "lng": 77.03932,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/352249872",
+  "name": "New Light Public School",
+  "category": "school",
+  "lat": 28.486876,
+  "lng": 77.019031,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1550729757",
+  "name": "Parth International School",
+  "category": "school",
+  "lat": 28.425703,
+  "lng": 77.071995,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10823517734",
+  "name": "Pathways",
+  "category": "school",
+  "lat": 28.429566,
+  "lng": 77.105957,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/81509345",
+  "name": "Pathways World School",
+  "category": "school",
+  "lat": 28.311042,
+  "lng": 77.012204,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1166297008",
+  "name": "Presidium",
+  "category": "school",
+  "lat": 28.422174,
+  "lng": 77.068337,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1257188609",
+  "name": "Rajkiya Pratibha Baal Vidyalaya",
+  "category": "school",
+  "lat": 28.517373,
+  "lng": 77.109271,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13864587605",
+  "name": "Ranil Early Birds",
+  "category": "school",
+  "lat": 28.363204,
+  "lng": 77.082238,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/482828008",
+  "name": "RK Convent",
+  "category": "school",
+  "lat": 28.491236,
+  "lng": 77.094442,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/58765809",
+  "name": "Rotary Public School",
+  "category": "school",
+  "lat": 28.501864,
+  "lng": 77.062301,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/9964185461",
+  "name": "Royal Convent School",
+  "category": "school",
+  "lat": 28.472749,
+  "lng": 77.089604,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1238227755",
+  "name": "RPS International School",
+  "category": "school",
+  "lat": 28.419913,
+  "lng": 77.053056,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1533470901",
+  "name": "RPS International School",
+  "category": "school",
+  "lat": 28.411243,
+  "lng": 77.057311,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13848949099",
+  "name": "RV Public School",
+  "category": "school",
+  "lat": 28.368153,
+  "lng": 77.078064,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/190291171",
+  "name": "Ryan",
+  "category": "school",
+  "lat": 28.539597,
+  "lng": 77.139142,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/34940753",
+  "name": "Ryan International School",
+  "category": "school",
+  "lat": 28.538508,
+  "lng": 77.138235,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/419513432",
+  "name": "Ryan International School",
+  "category": "school",
+  "lat": 28.452371,
+  "lng": 77.05542,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/984222935",
+  "name": "Ryan International School",
+  "category": "school",
+  "lat": 28.363319,
+  "lng": 77.063244,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/9964055895",
+  "name": "S B Public School",
+  "category": "school",
+  "lat": 28.473313,
+  "lng": 77.087548,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1518562105",
+  "name": "Saint Michael School",
+  "category": "school",
+  "lat": 28.362411,
+  "lng": 77.085791,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/335970186",
+  "name": "Salvan Public School",
+  "category": "school",
+  "lat": 28.46361,
+  "lng": 77.046515,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1257188607",
+  "name": "Sarvodya Kanya Vidyalaya Rajokari",
+  "category": "school",
+  "lat": 28.518249,
+  "lng": 77.10883,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/272761788",
+  "name": "Scottish High International School",
+  "category": "school",
+  "lat": 28.426358,
+  "lng": 77.088976,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/42807043",
+  "name": "SD Adarsh Vidyalaya",
+  "category": "school",
+  "lat": 28.422305,
+  "lng": 77.039959,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13860536805",
+  "name": "SD International School",
+  "category": "school",
+  "lat": 28.363856,
+  "lng": 77.077768,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1270574330",
+  "name": "Shalom Hills International School",
+  "category": "school",
+  "lat": 28.448702,
+  "lng": 77.08452,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/272761797",
+  "name": "Shalom Presidency School",
+  "category": "school",
+  "lat": 28.419559,
+  "lng": 77.098319,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1409678627",
+  "name": "Sharda International School",
+  "category": "school",
+  "lat": 28.450537,
+  "lng": 77.010026,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/266602155",
+  "name": "Sherwood Convent",
+  "category": "school",
+  "lat": 28.482917,
+  "lng": 77.07621,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/738185935",
+  "name": "Shiv Nadar School",
+  "category": "school",
+  "lat": 28.464754,
+  "lng": 77.104742,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/266636533",
+  "name": "Shriram School",
+  "category": "school",
+  "lat": 28.466334,
+  "lng": 77.085377,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/738481371",
+  "name": "Sidheshwar Public School",
+  "category": "school",
+  "lat": 28.467472,
+  "lng": 76.996783,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1420745420",
+  "name": "St. Angels (Jr)",
+  "category": "school",
+  "lat": 28.446921,
+  "lng": 77.065174,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1420745423",
+  "name": "St. Angels (Sr)",
+  "category": "school",
+  "lat": 28.441918,
+  "lng": 77.069506,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/281310755",
+  "name": "St. Michael's Senior Secondary School",
+  "category": "school",
+  "lat": 28.470197,
+  "lng": 77.016157,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1172656368",
+  "name": "St. Xavier's High School",
+  "category": "school",
+  "lat": 28.407422,
+  "lng": 77.057731,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/43194607",
+  "name": "Starex International School",
+  "category": "school",
+  "lat": 28.297603,
+  "lng": 76.865008,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/482664044",
+  "name": "Stones2milestones",
+  "category": "school",
+  "lat": 28.453993,
+  "lng": 77.07832,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1434663372",
+  "name": "Summer Fields School",
+  "category": "school",
+  "lat": 28.473167,
+  "lng": 77.09787,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/272869648",
+  "name": "Suncity School",
+  "category": "school",
+  "lat": 28.434347,
+  "lng": 77.112499,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1137301504",
+  "name": "Supaksha early learning habitat",
+  "category": "school",
+  "lat": 28.52953,
+  "lng": 77.149066,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/272761794",
+  "name": "Suraj School",
+  "category": "school",
+  "lat": 28.423934,
+  "lng": 77.101487,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4213529489",
+  "name": "Swiss Cottage school",
+  "category": "school",
+  "lat": 28.515795,
+  "lng": 77.050284,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1172654041",
+  "name": "Tagore Public School",
+  "category": "school",
+  "lat": 28.415085,
+  "lng": 77.072121,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1518562104",
+  "name": "The Wings Global School",
+  "category": "school",
+  "lat": 28.367947,
+  "lng": 77.085247,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/190291267",
+  "name": "Vasant Valley School",
+  "category": "school",
+  "lat": 28.533738,
+  "lng": 77.144493,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/664639541",
+  "name": "Vega School",
+  "category": "school",
+  "lat": 28.41065,
+  "lng": 77.038173,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1228658291",
+  "name": "Windsor International School",
+  "category": "school",
+  "lat": 28.432025,
+  "lng": 77.069108,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1513033652",
+  "name": "Wingspan Public School",
+  "category": "school",
+  "lat": 28.365359,
+  "lng": 77.078253,
+  "source": "osm"
+ },
+ {
+  "id": "osm:relation/11582485",
+  "name": "All India Institute of Medical Sciences - AIIMS Jhajjar",
+  "category": "college",
+  "lat": 28.503411,
+  "lng": 76.872288,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/297172467",
+  "name": "Amity University Haryana",
+  "category": "college",
+  "lat": 28.317278,
+  "lng": 76.914872,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11688160088",
+  "name": "Aryabhat College",
+  "category": "college",
+  "lat": 28.514746,
+  "lng": 77.131163,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1257188611",
+  "name": "DSEU Rajokari Campus",
+  "category": "college",
+  "lat": 28.518156,
+  "lng": 77.107842,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/719597210",
+  "name": "G D Goenka University",
+  "category": "college",
+  "lat": 28.263699,
+  "lng": 77.06543,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/272579934",
+  "name": "Government College for Girls",
+  "category": "college",
+  "lat": 28.444685,
+  "lng": 77.075762,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/189058648",
+  "name": "Government Polytechnic Manesar",
+  "category": "college",
+  "lat": 28.335226,
+  "lng": 76.927755,
+  "source": "osm"
+ },
+ {
+  "id": "osm:relation/20245829",
+  "name": "Govt. P.G. College, Sector-9, Gurugram",
+  "category": "college",
+  "lat": 28.458282,
+  "lng": 76.996044,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/269904114",
+  "name": "IILM",
+  "category": "college",
+  "lat": 28.43347,
+  "lng": 77.102213,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/5404472122",
+  "name": "IILM University",
+  "category": "college",
+  "lat": 28.433647,
+  "lng": 77.102847,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10750311837",
+  "name": "Institute of social science",
+  "category": "college",
+  "lat": 28.531683,
+  "lng": 77.149571,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13527420302",
+  "name": "KIIT college of engineering",
+  "category": "college",
+  "lat": 28.362311,
+  "lng": 77.06434,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/468977541",
+  "name": "Law College MDU",
+  "category": "college",
+  "lat": 28.450248,
+  "lng": 77.058308,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/23197218",
+  "name": "Management Development Institute",
+  "category": "college",
+  "lat": 28.472094,
+  "lng": 77.058584,
+  "source": "osm"
+ },
+ {
+  "id": "osm:relation/6174344",
+  "name": "NCU University",
+  "category": "college",
+  "lat": 28.503949,
+  "lng": 77.049065,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11191144938",
+  "name": "Sri Ram Institute of Marine Studies",
+  "category": "college",
+  "lat": 28.544516,
+  "lng": 77.028688,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1379243400",
+  "name": "Starex University NH-48, Binola, P.O.Bhorakalan, Gurugram, Haryana 122413",
+  "category": "college",
+  "lat": 28.298323,
+  "lng": 76.865314,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11873060515",
+  "name": "Suraj School And PG Degree College",
+  "category": "college",
+  "lat": 28.399418,
+  "lng": 77.010897,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/272846921",
+  "name": "Sushant University",
+  "category": "college",
+  "lat": 28.429643,
+  "lng": 77.111701,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/189108370",
+  "name": "The Northcap University",
+  "category": "college",
+  "lat": 28.503848,
+  "lng": 77.050113,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/133485170",
+  "name": "Univ Inst of Law & Mgmt",
+  "category": "college",
+  "lat": 28.450268,
+  "lng": 77.058039,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1565130227",
+  "name": "1221 Huda Park",
+  "category": "park",
+  "lat": 28.461443,
+  "lng": 76.998302,
+  "source": "osm"
+ },
+ {
+  "id": "osm:relation/19797903",
+  "name": "Aravali Creek",
+  "category": "park",
+  "lat": 28.462987,
+  "lng": 77.098836,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7829480979",
+  "name": "Atal Vatika Park",
+  "category": "park",
+  "lat": 28.453328,
+  "lng": 77.01954,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/818970759",
+  "name": "Aya Nagar Central Park",
+  "category": "park",
+  "lat": 28.47124,
+  "lng": 77.128875,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/818969083",
+  "name": "Baba Mangaldas Park",
+  "category": "park",
+  "lat": 28.471746,
+  "lng": 77.129246,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/547679449",
+  "name": "Back Park C-6",
+  "category": "park",
+  "lat": 28.536231,
+  "lng": 77.146288,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/581313412",
+  "name": "Butterfly Park Gurgaon",
+  "category": "park",
+  "lat": 28.436452,
+  "lng": 77.091994,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/547679447",
+  "name": "C-6 Vasant Kunj Park",
+  "category": "park",
+  "lat": 28.537048,
+  "lng": 77.14672,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/414178866",
+  "name": "Candor Badminton Court And Park",
+  "category": "park",
+  "lat": 28.510611,
+  "lng": 77.07216,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1076434964",
+  "name": "Central Greens",
+  "category": "park",
+  "lat": 28.512898,
+  "lng": 77.026718,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/589014180",
+  "name": "Central Park",
+  "category": "park",
+  "lat": 28.494448,
+  "lng": 77.098501,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1535485858",
+  "name": "Central Park",
+  "category": "park",
+  "lat": 28.437856,
+  "lng": 77.080043,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/547679448",
+  "name": "Central Park C-6",
+  "category": "park",
+  "lat": 28.536742,
+  "lng": 77.145407,
+  "source": "osm"
+ },
+ {
+  "id": "osm:relation/19667909",
+  "name": "Chakkarpur Wazirabad Bundh",
+  "category": "park",
+  "lat": 28.451852,
+  "lng": 77.091228,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/758379945",
+  "name": "Chaupal Chowk",
+  "category": "park",
+  "lat": 28.545428,
+  "lng": 77.129567,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/818968322",
+  "name": "Chhati Mayia Ground",
+  "category": "park",
+  "lat": 28.471276,
+  "lng": 77.12961,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7829458291",
+  "name": "Children park",
+  "category": "park",
+  "lat": 28.453291,
+  "lng": 77.017516,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/982729135",
+  "name": "Childrens Park",
+  "category": "park",
+  "lat": 28.524317,
+  "lng": 77.148878,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/625513669",
+  "name": "Common Park",
+  "category": "park",
+  "lat": 28.442621,
+  "lng": 77.065423,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/615615431",
+  "name": "Community Park S2302",
+  "category": "park",
+  "lat": 28.512207,
+  "lng": 77.056577,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/340400594",
+  "name": "D 6 Park",
+  "category": "park",
+  "lat": 28.526086,
+  "lng": 77.146792,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/12183551783",
+  "name": "D-8 Park",
+  "category": "park",
+  "lat": 28.529252,
+  "lng": 77.14401,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1491394004",
+  "name": "Deerwood Park",
+  "category": "park",
+  "lat": 28.41499,
+  "lng": 77.063341,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1491394560",
+  "name": "DeerWood Park - 2",
+  "category": "park",
+  "lat": 28.413889,
+  "lng": 77.062275,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/24672095",
+  "name": "Dhyaan Vatika",
+  "category": "park",
+  "lat": 28.462163,
+  "lng": 77.075417,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/492742442",
+  "name": "Dussehra Ground",
+  "category": "park",
+  "lat": 28.465346,
+  "lng": 77.014942,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1247545906",
+  "name": "Eco Grove Park",
+  "category": "park",
+  "lat": 28.382396,
+  "lng": 77.063524,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1408777029",
+  "name": "F Block Open Gym",
+  "category": "park",
+  "lat": 28.415787,
+  "lng": 77.05492,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1408776567",
+  "name": "F Block Park",
+  "category": "park",
+  "lat": 28.416556,
+  "lng": 77.05482,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/692838411",
+  "name": "Flower Park",
+  "category": "park",
+  "lat": 28.414286,
+  "lng": 77.092237,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/426762197",
+  "name": "Gaushala - PedalYatri",
+  "category": "park",
+  "lat": 28.398624,
+  "lng": 77.109884,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/581313140",
+  "name": "Golden Crest park and green area",
+  "category": "park",
+  "lat": 28.435716,
+  "lng": 77.089468,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1564826870",
+  "name": "Greenwood Park",
+  "category": "park",
+  "lat": 28.462183,
+  "lng": 76.991659,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/982039384",
+  "name": "Gulab Park",
+  "category": "park",
+  "lat": 28.455194,
+  "lng": 77.08152,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1224672242",
+  "name": "Gulmohar Marg Park",
+  "category": "park",
+  "lat": 28.481051,
+  "lng": 77.073737,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1247550805",
+  "name": "H2O Park",
+  "category": "park",
+  "lat": 28.387256,
+  "lng": 77.060416,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/490407162",
+  "name": "Herbal Garden",
+  "category": "park",
+  "lat": 28.508974,
+  "lng": 77.088791,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1565130229",
+  "name": "Housing Board Colony Park",
+  "category": "park",
+  "lat": 28.461021,
+  "lng": 76.99626,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1260759155",
+  "name": "Housing Board Park N Block",
+  "category": "park",
+  "lat": 28.426482,
+  "lng": 77.063093,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1565130216",
+  "name": "Huda Community Center Park",
+  "category": "park",
+  "lat": 28.463546,
+  "lng": 76.996705,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/24636597",
+  "name": "HUDA Garden",
+  "category": "park",
+  "lat": 28.474783,
+  "lng": 77.053271,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/492728960",
+  "name": "Huda Park",
+  "category": "park",
+  "lat": 28.428824,
+  "lng": 77.095719,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1565130220",
+  "name": "Huda Park",
+  "category": "park",
+  "lat": 28.465752,
+  "lng": 76.99927,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1564826865",
+  "name": "Huda Park 1",
+  "category": "park",
+  "lat": 28.463899,
+  "lng": 76.992504,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1564826863",
+  "name": "Huda Park 2",
+  "category": "park",
+  "lat": 28.46398,
+  "lng": 76.994381,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1564826866",
+  "name": "Huda Park 2",
+  "category": "park",
+  "lat": 28.464592,
+  "lng": 76.991686,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1247545905",
+  "name": "Hyde Park",
+  "category": "park",
+  "lat": 28.382419,
+  "lng": 77.059224,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/471501661",
+  "name": "Imperia Towers Park",
+  "category": "park",
+  "lat": 28.422999,
+  "lng": 77.041489,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/5624723854",
+  "name": "Infocity Park",
+  "category": "park",
+  "lat": 28.43029,
+  "lng": 77.015331,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/818982446",
+  "name": "J.M.D Garden",
+  "category": "park",
+  "lat": 28.472218,
+  "lng": 77.134574,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/492742443",
+  "name": "Jitender Bahl Municipal Park",
+  "category": "park",
+  "lat": 28.465627,
+  "lng": 77.017143,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1260743940",
+  "name": "Joggers Park",
+  "category": "park",
+  "lat": 28.42331,
+  "lng": 77.06297,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/581309919",
+  "name": "Karanvir Towers Park",
+  "category": "park",
+  "lat": 28.435252,
+  "lng": 77.08955,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1042625416",
+  "name": "Kid's Park",
+  "category": "park",
+  "lat": 28.498956,
+  "lng": 77.095214,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/818971505",
+  "name": "Kids playing park",
+  "category": "park",
+  "lat": 28.470824,
+  "lng": 77.12847,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1247506035",
+  "name": "King's Park",
+  "category": "park",
+  "lat": 28.386034,
+  "lng": 77.064228,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/271336428",
+  "name": "Kotak Mahindra Bank",
+  "category": "park",
+  "lat": 28.480863,
+  "lng": 77.084888,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/818981309",
+  "name": "Lalit garden",
+  "category": "park",
+  "lat": 28.471491,
+  "lng": 77.131673,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/24501701",
+  "name": "Leisure Valley Park",
+  "category": "park",
+  "lat": 28.469197,
+  "lng": 77.066087,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/818981609",
+  "name": "Local park",
+  "category": "park",
+  "lat": 28.4708,
+  "lng": 77.131657,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1260741044",
+  "name": "Main Triangular Park",
+  "category": "park",
+  "lat": 28.422569,
+  "lng": 77.064316,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1076312325",
+  "name": "Major Vinod Rana Park",
+  "category": "park",
+  "lat": 28.511394,
+  "lng": 77.026865,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/471502959",
+  "name": "Malibu Town Parks",
+  "category": "park",
+  "lat": 28.420966,
+  "lng": 77.042565,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/471501657",
+  "name": "Malibu Town Tower 3-4 Park",
+  "category": "park",
+  "lat": 28.423084,
+  "lng": 77.039931,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1220968209",
+  "name": "Manav Rachna Playground cum C Block Main Park",
+  "category": "park",
+  "lat": 28.422494,
+  "lng": 77.06121,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1486480802",
+  "name": "Mayur garden",
+  "category": "park",
+  "lat": 28.452804,
+  "lng": 77.089281,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1564826864",
+  "name": "MCG Park no. 3",
+  "category": "park",
+  "lat": 28.464955,
+  "lng": 76.997513,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1565130217",
+  "name": "Mohit Narwal Academy",
+  "category": "park",
+  "lat": 28.462592,
+  "lng": 76.997121,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/423115180",
+  "name": "N Block Central Park",
+  "category": "park",
+  "lat": 28.426336,
+  "lng": 77.061921,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1076435578",
+  "name": "Netaji Subhash Chandra Bose Park",
+  "category": "park",
+  "lat": 28.51308,
+  "lng": 77.025508,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/629413037",
+  "name": "Nile's Central Park",
+  "category": "park",
+  "lat": 28.410182,
+  "lng": 77.050296,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1247550806",
+  "name": "O2 Park",
+  "category": "park",
+  "lat": 28.38787,
+  "lng": 77.058643,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1247545901",
+  "name": "O3 Park",
+  "category": "park",
+  "lat": 28.386525,
+  "lng": 77.0591,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/592315617",
+  "name": "Palm Drive Gardens",
+  "category": "park",
+  "lat": 28.401639,
+  "lng": 77.052585,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1564826867",
+  "name": "Park 132",
+  "category": "park",
+  "lat": 28.466644,
+  "lng": 76.990271,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1387719418",
+  "name": "Park 2",
+  "category": "park",
+  "lat": 28.425304,
+  "lng": 77.06605,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1565130224",
+  "name": "Park 5",
+  "category": "park",
+  "lat": 28.466214,
+  "lng": 77.0012,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/546520217",
+  "name": "Park behind St. Angel's school",
+  "category": "park",
+  "lat": 28.441173,
+  "lng": 77.069431,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1195171946",
+  "name": "Park Number 5",
+  "category": "park",
+  "lat": 28.427461,
+  "lng": 77.065402,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1564826862",
+  "name": "Park Way Park",
+  "category": "park",
+  "lat": 28.463157,
+  "lng": 76.992057,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1247511524",
+  "name": "Queen's Park",
+  "category": "park",
+  "lat": 28.385189,
+  "lng": 77.06386,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/544127170",
+  "name": "Radha Krishna Park",
+  "category": "park",
+  "lat": 28.455616,
+  "lng": 77.048753,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/482822215",
+  "name": "RK Convent Park",
+  "category": "park",
+  "lat": 28.491258,
+  "lng": 77.094787,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/692838409",
+  "name": "Rose Garden",
+  "category": "park",
+  "lat": 28.414852,
+  "lng": 77.09206,
+  "source": "osm"
+ },
+ {
+  "id": "osm:relation/20247822",
+  "name": "Rose Garden",
+  "category": "park",
+  "lat": 28.458702,
+  "lng": 76.996277,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/546519112",
+  "name": "Royal Presidency Park",
+  "category": "park",
+  "lat": 28.442041,
+  "lng": 77.063822,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/748812233",
+  "name": "RWA Park",
+  "category": "park",
+  "lat": 28.488986,
+  "lng": 77.094649,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/689295726",
+  "name": "S Block Park",
+  "category": "park",
+  "lat": 28.486473,
+  "lng": 77.103628,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1565130222",
+  "name": "Saheed Uddham Singh Park",
+  "category": "park",
+  "lat": 28.463236,
+  "lng": 77.001222,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/742628572",
+  "name": "samadhan hub park",
+  "category": "park",
+  "lat": 28.455242,
+  "lng": 77.089228,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/615614840",
+  "name": "Secctor 23 Maarket Park",
+  "category": "park",
+  "lat": 28.510838,
+  "lng": 77.050714,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/34940769",
+  "name": "Sector 45 Community park",
+  "category": "park",
+  "lat": 28.442319,
+  "lng": 77.067409,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/45769378",
+  "name": "Sector 46 Central Park",
+  "category": "park",
+  "lat": 28.434397,
+  "lng": 77.060729,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/557700825",
+  "name": "Sector 52 Park",
+  "category": "park",
+  "lat": 28.435584,
+  "lng": 77.088811,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1565130225",
+  "name": "Sector 9 Ground",
+  "category": "park",
+  "lat": 28.460627,
+  "lng": 76.998986,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1565130223",
+  "name": "Sector 9 HUDA Park",
+  "category": "park",
+  "lat": 28.463783,
+  "lng": 77.000814,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1565130221",
+  "name": "Sector 9 Park",
+  "category": "park",
+  "lat": 28.465297,
+  "lng": 77.001146,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/818972303",
+  "name": "Shiv mandir and park",
+  "category": "park",
+  "lat": 28.471422,
+  "lng": 77.129848,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/423734335",
+  "name": "Silver Jubilee Park",
+  "category": "park",
+  "lat": 28.457595,
+  "lng": 77.048351,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1564826868",
+  "name": "Society Park",
+  "category": "park",
+  "lat": 28.465498,
+  "lng": 76.991897,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/546519114",
+  "name": "Sports Complex, Sector 45",
+  "category": "park",
+  "lat": 28.441305,
+  "lng": 77.065642,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/61370308",
+  "name": "Tau Devi Lal Bio-Diversity and Botonical Garden",
+  "category": "park",
+  "lat": 28.432744,
+  "lng": 77.093112,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/35463239",
+  "name": "Tau Devi Lal Park",
+  "category": "park",
+  "lat": 28.502106,
+  "lng": 77.056828,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1260750144",
+  "name": "Temple Park",
+  "category": "park",
+  "lat": 28.426468,
+  "lng": 77.060624,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/189108365",
+  "name": "Ticona Park",
+  "category": "park",
+  "lat": 28.506343,
+  "lng": 77.049646,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7829458290",
+  "name": "Tikona Park",
+  "category": "park",
+  "lat": 28.453767,
+  "lng": 77.017282,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1531177193",
+  "name": "Tikona Park, A Block,",
+  "category": "park",
+  "lat": 28.416821,
+  "lng": 77.0804,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1247545903",
+  "name": "Tranquile Groove",
+  "category": "park",
+  "lat": 28.384962,
+  "lng": 77.058559,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/297353910",
+  "name": "Triangle Children Park",
+  "category": "park",
+  "lat": 28.444327,
+  "lng": 77.064168,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/297353904",
+  "name": "Triangle Park",
+  "category": "park",
+  "lat": 28.44434,
+  "lng": 77.063586,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1422826986",
+  "name": "Upvan Park",
+  "category": "park",
+  "lat": 28.454801,
+  "lng": 77.091574,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/38170389",
+  "name": "Vasant Vatika",
+  "category": "park",
+  "lat": 28.534354,
+  "lng": 77.146301,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1257188599",
+  "name": "Vijay Singh Park",
+  "category": "park",
+  "lat": 28.513317,
+  "lng": 77.120937,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/754941764",
+  "name": "Warizabad Ecorestoration Park",
+  "category": "park",
+  "lat": 28.455329,
+  "lng": 77.089208,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/651388658",
+  "name": "White Wood Central Park",
+  "category": "park",
+  "lat": 28.426467,
+  "lng": 77.049407,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14305694430",
+  "name": "ZileSingh Sangwan Farm",
+  "category": "park",
+  "lat": 28.529302,
+  "lng": 76.978701,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/537979943",
+  "name": "ABN Amro",
+  "category": "bank",
+  "lat": 28.479445,
+  "lng": 77.082871,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/5115687022",
+  "name": "ATM",
+  "category": "bank",
+  "lat": 28.54712,
+  "lng": 77.128587,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11037384816",
+  "name": "AU Small Finance Bank",
+  "category": "bank",
+  "lat": 28.44365,
+  "lng": 77.100698,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/12091616657",
+  "name": "AU Small Finance Bank",
+  "category": "bank",
+  "lat": 28.460483,
+  "lng": 77.078066,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14173153326",
+  "name": "AU Small Finance Bank",
+  "category": "bank",
+  "lat": 28.480118,
+  "lng": 77.089632,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/537979966",
+  "name": "Axis Bank",
+  "category": "bank",
+  "lat": 28.480144,
+  "lng": 77.089523,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1371226150",
+  "name": "Axis Bank",
+  "category": "bank",
+  "lat": 28.467236,
+  "lng": 77.081238,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1463412595",
+  "name": "Axis Bank",
+  "category": "bank",
+  "lat": 28.43508,
+  "lng": 77.104763,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4212577536",
+  "name": "Axis Bank",
+  "category": "bank",
+  "lat": 28.511878,
+  "lng": 77.03918,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10593541925",
+  "name": "Axis Bank",
+  "category": "bank",
+  "lat": 28.419672,
+  "lng": 77.038196,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10876296335",
+  "name": "Axis Bank",
+  "category": "bank",
+  "lat": 28.424833,
+  "lng": 77.068395,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10951960291",
+  "name": "Axis Bank",
+  "category": "bank",
+  "lat": 28.395188,
+  "lng": 77.031433,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11273952091",
+  "name": "Axis Bank",
+  "category": "bank",
+  "lat": 28.413387,
+  "lng": 77.05525,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11929097624",
+  "name": "Axis Bank",
+  "category": "bank",
+  "lat": 28.4511,
+  "lng": 77.081959,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11930060341",
+  "name": "Axis Bank",
+  "category": "bank",
+  "lat": 28.478679,
+  "lng": 77.071332,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13996916123",
+  "name": "Axis Bank",
+  "category": "bank",
+  "lat": 28.426976,
+  "lng": 77.058247,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14112503093",
+  "name": "Axis Bank",
+  "category": "bank",
+  "lat": 28.464811,
+  "lng": 77.074353,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14297231717",
+  "name": "Axis Bank",
+  "category": "bank",
+  "lat": 28.428431,
+  "lng": 77.098759,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14150509800",
+  "name": "Axis Bank DLF City",
+  "category": "bank",
+  "lat": 28.468192,
+  "lng": 77.083162,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14151247807",
+  "name": "Axis Bank Times Tower M G Road",
+  "category": "bank",
+  "lat": 28.478264,
+  "lng": 77.076228,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13974268616",
+  "name": "Bandhan Bank",
+  "category": "bank",
+  "lat": 28.418065,
+  "lng": 77.055913,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14240974153",
+  "name": "Bandhan Bank",
+  "category": "bank",
+  "lat": 28.468274,
+  "lng": 77.083519,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11929097623",
+  "name": "Bank of Baroda",
+  "category": "bank",
+  "lat": 28.45083,
+  "lng": 77.081745,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14265712516",
+  "name": "Bank of Baroda",
+  "category": "bank",
+  "lat": 28.443568,
+  "lng": 77.100736,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13584134282",
+  "name": "Bank of Maharashtra",
+  "category": "bank",
+  "lat": 28.42483,
+  "lng": 77.068477,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/7131331964",
+  "name": "Canara Bank",
+  "category": "bank",
+  "lat": 28.475502,
+  "lng": 77.060571,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14112503090",
+  "name": "Canara Bank",
+  "category": "bank",
+  "lat": 28.465269,
+  "lng": 77.074351,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/9244806450",
+  "name": "Catholic Syrian Bank",
+  "category": "bank",
+  "lat": 28.478319,
+  "lng": 77.046955,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1363223153",
+  "name": "Central Bank of India",
+  "category": "bank",
+  "lat": 28.394996,
+  "lng": 77.046266,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10893280438",
+  "name": "Central Bank of India",
+  "category": "bank",
+  "lat": 28.393286,
+  "lng": 77.046882,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13957311823",
+  "name": "Central Bank of India",
+  "category": "bank",
+  "lat": 28.530429,
+  "lng": 77.149755,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11688160164",
+  "name": "Corporation Bank",
+  "category": "bank",
+  "lat": 28.514809,
+  "lng": 77.106122,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14265712511",
+  "name": "DBS Bank India",
+  "category": "bank",
+  "lat": 28.440922,
+  "lng": 77.102864,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4496534357",
+  "name": "Deutsche Bank",
+  "category": "bank",
+  "lat": 28.494947,
+  "lng": 77.093022,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14112544405",
+  "name": "Federal Bank Gurugram MG Road",
+  "category": "bank",
+  "lat": 28.479012,
+  "lng": 77.073548,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13478718002",
+  "name": "HDFC bank",
+  "category": "bank",
+  "lat": 28.361113,
+  "lng": 77.064476,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/249132375",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.440015,
+  "lng": 77.102391,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/266437737",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.476001,
+  "lng": 77.045055,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/297255248",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.459016,
+  "lng": 77.076389,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/537979936",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.479567,
+  "lng": 77.083775,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/765413625",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.421947,
+  "lng": 77.091015,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1389062000",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.417248,
+  "lng": 77.050616,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4078505901",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.473624,
+  "lng": 77.009268,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4101294192",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.402062,
+  "lng": 77.050289,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4357793821",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.449038,
+  "lng": 77.056655,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/5228001162",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.434663,
+  "lng": 77.106438,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6205074486",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.419553,
+  "lng": 77.038597,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6469103562",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.412942,
+  "lng": 77.078525,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10816636701",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.476103,
+  "lng": 77.093318,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10924011401",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.424828,
+  "lng": 77.068668,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11273915350",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.413041,
+  "lng": 77.055253,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11929097596",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.451263,
+  "lng": 77.081741,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14112503091",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.465518,
+  "lng": 77.074313,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14112503098",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.46833,
+  "lng": 77.074434,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14150509796",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.451171,
+  "lng": 77.096203,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14151247806",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.468179,
+  "lng": 77.082959,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14265712513",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.438567,
+  "lng": 77.102672,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14297231711",
+  "name": "HDFC Bank",
+  "category": "bank",
+  "lat": 28.446314,
+  "lng": 77.094109,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14112544404",
+  "name": "HDFC Bank Sewa Corporate Park Gurugram",
+  "category": "bank",
+  "lat": 28.479017,
+  "lng": 77.073639,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14112525867",
+  "name": "HDFC Bank SS Plaza",
+  "category": "bank",
+  "lat": 28.426893,
+  "lng": 77.056968,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4351201297",
+  "name": "HDFC Bank, Bilaspur",
+  "category": "bank",
+  "lat": 28.289235,
+  "lng": 76.858593,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/267127244",
+  "name": "HSBC",
+  "category": "bank",
+  "lat": 28.481009,
+  "lng": 77.085109,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/266437720",
+  "name": "ICICI Bank",
+  "category": "bank",
+  "lat": 28.475805,
+  "lng": 77.044891,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/297255247",
+  "name": "ICICI Bank",
+  "category": "bank",
+  "lat": 28.459029,
+  "lng": 77.076436,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4496525913",
+  "name": "ICICI Bank",
+  "category": "bank",
+  "lat": 28.494221,
+  "lng": 77.092701,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/5220810365",
+  "name": "ICICI Bank",
+  "category": "bank",
+  "lat": 28.434677,
+  "lng": 77.10641,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6636605185",
+  "name": "ICICI Bank",
+  "category": "bank",
+  "lat": 28.507249,
+  "lng": 77.086512,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6901787017",
+  "name": "ICICI Bank",
+  "category": "bank",
+  "lat": 28.415459,
+  "lng": 77.041674,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11037384815",
+  "name": "ICICI Bank",
+  "category": "bank",
+  "lat": 28.443504,
+  "lng": 77.100718,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11273906543",
+  "name": "ICICI Bank",
+  "category": "bank",
+  "lat": 28.413309,
+  "lng": 77.055236,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11929097597",
+  "name": "ICICI Bank",
+  "category": "bank",
+  "lat": 28.451022,
+  "lng": 77.081584,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/12810731410",
+  "name": "ICICI Bank",
+  "category": "bank",
+  "lat": 28.449102,
+  "lng": 77.056507,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13073917050",
+  "name": "ICICI Bank",
+  "category": "bank",
+  "lat": 28.424827,
+  "lng": 77.068555,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13175452499",
+  "name": "ICICI Bank",
+  "category": "bank",
+  "lat": 28.476219,
+  "lng": 77.093283,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14334879373",
+  "name": "ICICI Bank",
+  "category": "bank",
+  "lat": 28.473805,
+  "lng": 77.047441,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14151247810",
+  "name": "ICICI Bank DLF Phase IV",
+  "category": "bank",
+  "lat": 28.468184,
+  "lng": 77.083034,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14151247809",
+  "name": "ICICI Bank M G Road",
+  "category": "bank",
+  "lat": 28.478227,
+  "lng": 77.076115,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14133355648",
+  "name": "ICICI Bank Malibu Towne Sector 50",
+  "category": "bank",
+  "lat": 28.421421,
+  "lng": 77.053043,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14173153334",
+  "name": "ICICI Bank Sector 42 Gurugram",
+  "category": "bank",
+  "lat": 28.462943,
+  "lng": 77.096407,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6093120974",
+  "name": "IDBI Bank",
+  "category": "bank",
+  "lat": 28.545136,
+  "lng": 77.127737,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13246708705",
+  "name": "IDBI Bank",
+  "category": "bank",
+  "lat": 28.459624,
+  "lng": 77.095452,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11273948156",
+  "name": "IDFC First Bank",
+  "category": "bank",
+  "lat": 28.413235,
+  "lng": 77.05523,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4078505381",
+  "name": "Indian Bank",
+  "category": "bank",
+  "lat": 28.473963,
+  "lng": 77.009096,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11688160175",
+  "name": "Indian Bank",
+  "category": "bank",
+  "lat": 28.514567,
+  "lng": 77.107196,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14297231716",
+  "name": "Indian Overseas Bank",
+  "category": "bank",
+  "lat": 28.428546,
+  "lng": 77.098769,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14112544403",
+  "name": "Indian Overseas Bank DLF Phase 2",
+  "category": "bank",
+  "lat": 28.479019,
+  "lng": 77.07371,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/537979940",
+  "name": "IndusInd Bank",
+  "category": "bank",
+  "lat": 28.479323,
+  "lng": 77.082874,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4101264093",
+  "name": "IndusInd Bank",
+  "category": "bank",
+  "lat": 28.40141,
+  "lng": 77.048675,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/5220810369",
+  "name": "IndusInd Bank",
+  "category": "bank",
+  "lat": 28.433817,
+  "lng": 77.105388,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10750309798",
+  "name": "IndusInd Bank",
+  "category": "bank",
+  "lat": 28.531242,
+  "lng": 77.149472,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10924013202",
+  "name": "IndusInd Bank",
+  "category": "bank",
+  "lat": 28.42479,
+  "lng": 77.068599,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10951988905",
+  "name": "IndusInd Bank",
+  "category": "bank",
+  "lat": 28.395141,
+  "lng": 77.031435,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14112503100",
+  "name": "IndusInd Bank",
+  "category": "bank",
+  "lat": 28.468302,
+  "lng": 77.074634,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14297231714",
+  "name": "IndusInd Bank",
+  "category": "bank",
+  "lat": 28.45107,
+  "lng": 77.096222,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/9244849729",
+  "name": "Karur Vysay Bank",
+  "category": "bank",
+  "lat": 28.478242,
+  "lng": 77.046875,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4078505380",
+  "name": "Kotak Bank",
+  "category": "bank",
+  "lat": 28.473737,
+  "lng": 77.009203,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11273953827",
+  "name": "Kotak mahendra bank",
+  "category": "bank",
+  "lat": 28.413442,
+  "lng": 77.055251,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/271336428",
+  "name": "Kotak Mahindra Bank",
+  "category": "bank",
+  "lat": 28.480863,
+  "lng": 77.084888,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/5220810370",
+  "name": "Kotak Mahindra Bank",
+  "category": "bank",
+  "lat": 28.433819,
+  "lng": 77.105233,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11037529618",
+  "name": "Kotak Mahindra Bank",
+  "category": "bank",
+  "lat": 28.467034,
+  "lng": 77.082276,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11929097598",
+  "name": "Kotak Mahindra Bank",
+  "category": "bank",
+  "lat": 28.450993,
+  "lng": 77.08156,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13246708704",
+  "name": "Kotak Mahindra Bank",
+  "category": "bank",
+  "lat": 28.459687,
+  "lng": 77.095452,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14112503095",
+  "name": "Kotak Mahindra Bank",
+  "category": "bank",
+  "lat": 28.464761,
+  "lng": 77.074331,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/271336389",
+  "name": "Lord Krishna Bank",
+  "category": "bank",
+  "lat": 28.479511,
+  "lng": 77.083198,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/2882969075",
+  "name": "Oriental Bank of Commerce",
+  "category": "bank",
+  "lat": 28.477373,
+  "lng": 77.04649,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4068249294",
+  "name": "Oriental Bank of Commerce",
+  "category": "bank",
+  "lat": 28.502061,
+  "lng": 77.062996,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10579158719",
+  "name": "Paramjeet Saha",
+  "category": "bank",
+  "lat": 28.465226,
+  "lng": 77.134908,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1494336624",
+  "name": "Punjab & Sind Bank",
+  "category": "bank",
+  "lat": 28.449221,
+  "lng": 77.077126,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/477905114",
+  "name": "Punjab National Bank",
+  "category": "bank",
+  "lat": 28.463361,
+  "lng": 77.032807,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/3556106101",
+  "name": "Punjab National Bank",
+  "category": "bank",
+  "lat": 28.556172,
+  "lng": 77.057587,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4212600962",
+  "name": "Punjab National Bank",
+  "category": "bank",
+  "lat": 28.504574,
+  "lng": 77.053167,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10750314717",
+  "name": "Punjab National Bank",
+  "category": "bank",
+  "lat": 28.531489,
+  "lng": 77.149562,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11929097589",
+  "name": "Punjab National Bank",
+  "category": "bank",
+  "lat": 28.451295,
+  "lng": 77.081818,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10750293472",
+  "name": "RBL Bank",
+  "category": "bank",
+  "lat": 28.530894,
+  "lng": 77.149233,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11930060342",
+  "name": "RBL Bank",
+  "category": "bank",
+  "lat": 28.47857,
+  "lng": 77.071209,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/482663982",
+  "name": "Standard Chartered",
+  "category": "bank",
+  "lat": 28.493008,
+  "lng": 77.092111,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/266376782",
+  "name": "Standard Chartered Bank",
+  "category": "bank",
+  "lat": 28.47307,
+  "lng": 77.048125,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/477905030",
+  "name": "State Bank of India",
+  "category": "bank",
+  "lat": 28.391685,
+  "lng": 77.048679,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/484198839",
+  "name": "State Bank of India",
+  "category": "bank",
+  "lat": 28.494834,
+  "lng": 77.103521,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4847265402",
+  "name": "State Bank of India",
+  "category": "bank",
+  "lat": 28.467168,
+  "lng": 77.018953,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/5220810368",
+  "name": "State Bank of India",
+  "category": "bank",
+  "lat": 28.433569,
+  "lng": 77.105581,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6309157280",
+  "name": "State Bank of India",
+  "category": "bank",
+  "lat": 28.546461,
+  "lng": 77.124875,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10593615558",
+  "name": "State Bank of India",
+  "category": "bank",
+  "lat": 28.418211,
+  "lng": 77.038314,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10951960304",
+  "name": "State Bank of India",
+  "category": "bank",
+  "lat": 28.395056,
+  "lng": 77.031434,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11273947397",
+  "name": "State Bank of India",
+  "category": "bank",
+  "lat": 28.412674,
+  "lng": 77.05543,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13857630990",
+  "name": "State Bank of India",
+  "category": "bank",
+  "lat": 28.361111,
+  "lng": 77.064224,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13996916126",
+  "name": "State Bank of India",
+  "category": "bank",
+  "lat": 28.426846,
+  "lng": 77.058425,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14112503092",
+  "name": "State Bank of India",
+  "category": "bank",
+  "lat": 28.465433,
+  "lng": 77.07428,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14112503097",
+  "name": "State Bank of India",
+  "category": "bank",
+  "lat": 28.468297,
+  "lng": 77.074438,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/2906771276",
+  "name": "state bank of india SBI",
+  "category": "bank",
+  "lat": 28.464806,
+  "lng": 77.037742,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14112544402",
+  "name": "State Bank of India Special NRI Branch, Gurugram",
+  "category": "bank",
+  "lat": 28.479053,
+  "lng": 77.073956,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4351201292",
+  "name": "Syndicate Bank",
+  "category": "bank",
+  "lat": 28.288978,
+  "lng": 76.859134,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11929097600",
+  "name": "Ujjivan Small Finance Bank",
+  "category": "bank",
+  "lat": 28.451177,
+  "lng": 77.081702,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/477905082",
+  "name": "Union Bank of India",
+  "category": "bank",
+  "lat": 28.393599,
+  "lng": 77.046738,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13857630984",
+  "name": "Union Bank of India",
+  "category": "bank",
+  "lat": 28.359362,
+  "lng": 77.078724,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14112503096",
+  "name": "Union Bank of India",
+  "category": "bank",
+  "lat": 28.464698,
+  "lng": 77.074331,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13974268620",
+  "name": "Utkarsh Small Finance Bank",
+  "category": "bank",
+  "lat": 28.417725,
+  "lng": 77.056234,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13952309701",
+  "name": "Yes Bank",
+  "category": "bank",
+  "lat": 28.49732,
+  "lng": 77.085834,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/13996916120",
+  "name": "Yes Bank",
+  "category": "bank",
+  "lat": 28.427131,
+  "lng": 77.058415,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14112503094",
+  "name": "Yes Bank",
+  "category": "bank",
+  "lat": 28.46473,
+  "lng": 77.074332,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/152216695",
+  "name": "Bharat Petroleum",
+  "category": "fuel",
+  "lat": 28.424525,
+  "lng": 77.147148,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/349807048",
+  "name": "Bharat Petroleum",
+  "category": "fuel",
+  "lat": 28.556185,
+  "lng": 77.056787,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/350547699",
+  "name": "Bharat Petroleum",
+  "category": "fuel",
+  "lat": 28.465506,
+  "lng": 77.055681,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1188653217",
+  "name": "Bharat Petroleum",
+  "category": "fuel",
+  "lat": 28.439909,
+  "lng": 77.103248,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1195003744",
+  "name": "Bharat Petroleum",
+  "category": "fuel",
+  "lat": 28.449714,
+  "lng": 77.091469,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/266374765",
+  "name": "Bharat Petroleum",
+  "category": "fuel",
+  "lat": 28.432401,
+  "lng": 77.047867,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/413315327",
+  "name": "Bharat Petroleum",
+  "category": "fuel",
+  "lat": 28.522936,
+  "lng": 77.099676,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/448302160",
+  "name": "Bharat Petroleum",
+  "category": "fuel",
+  "lat": 28.451811,
+  "lng": 77.075201,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/5604865253",
+  "name": "Bharat Petroleum",
+  "category": "fuel",
+  "lat": 28.522227,
+  "lng": 77.081992,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6071158915",
+  "name": "Bharat Petroleum",
+  "category": "fuel",
+  "lat": 28.482409,
+  "lng": 77.103016,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10893255807",
+  "name": "Bharat Petroleum",
+  "category": "fuel",
+  "lat": 28.242069,
+  "lng": 77.072127,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10893310116",
+  "name": "Bharat Petroleum",
+  "category": "fuel",
+  "lat": 28.339505,
+  "lng": 77.068238,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11665489616",
+  "name": "Bharat Petroleum",
+  "category": "fuel",
+  "lat": 28.44239,
+  "lng": 77.000629,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/8932822873",
+  "name": "Boxer Fuel Point",
+  "category": "fuel",
+  "lat": 28.443955,
+  "lng": 76.987137,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4396969419",
+  "name": "CNG Pump",
+  "category": "fuel",
+  "lat": 28.558454,
+  "lng": 77.106734,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/477905067",
+  "name": "Dhillon Filling Station",
+  "category": "fuel",
+  "lat": 28.346129,
+  "lng": 77.067555,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6361838544",
+  "name": "Essar Petrol Pump",
+  "category": "fuel",
+  "lat": 28.405351,
+  "lng": 76.941383,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10842130551",
+  "name": "Haryana City Gas (HCG) CNG Pump",
+  "category": "fuel",
+  "lat": 28.452132,
+  "lng": 77.075083,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1195003743",
+  "name": "HCG",
+  "category": "fuel",
+  "lat": 28.449699,
+  "lng": 77.091059,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1730577467",
+  "name": "HCG CNG Station",
+  "category": "fuel",
+  "lat": 28.431899,
+  "lng": 77.099737,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1730575588",
+  "name": "Heera Fuel Station",
+  "category": "fuel",
+  "lat": 28.431894,
+  "lng": 77.099404,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/350086129",
+  "name": "Hindustan Petroleum",
+  "category": "fuel",
+  "lat": 28.47669,
+  "lng": 77.066465,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10869059265",
+  "name": "Hindustan Petroleum",
+  "category": "fuel",
+  "lat": 28.47051,
+  "lng": 77.094527,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10893280772",
+  "name": "Hindustan Petroleum",
+  "category": "fuel",
+  "lat": 28.345821,
+  "lng": 77.067352,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10893287129",
+  "name": "Hindustan Petroleum",
+  "category": "fuel",
+  "lat": 28.330217,
+  "lng": 77.067998,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10893391531",
+  "name": "Hindustan Petroleum",
+  "category": "fuel",
+  "lat": 28.410866,
+  "lng": 77.072409,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11665696366",
+  "name": "Hindustan Petroleum",
+  "category": "fuel",
+  "lat": 28.427666,
+  "lng": 77.033567,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/152216698",
+  "name": "HP",
+  "category": "fuel",
+  "lat": 28.423868,
+  "lng": 77.147916,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/728300538",
+  "name": "HP",
+  "category": "fuel",
+  "lat": 28.520944,
+  "lng": 77.08227,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/2511126268",
+  "name": "HP",
+  "category": "fuel",
+  "lat": 28.540384,
+  "lng": 77.116556,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/5738752548",
+  "name": "HP",
+  "category": "fuel",
+  "lat": 28.544889,
+  "lng": 77.121717,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11281140568",
+  "name": "HP",
+  "category": "fuel",
+  "lat": 28.304734,
+  "lng": 77.067203,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11281363124",
+  "name": "HP",
+  "category": "fuel",
+  "lat": 28.26195,
+  "lng": 77.067628,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/152014679",
+  "name": "HP COCO",
+  "category": "fuel",
+  "lat": 28.504581,
+  "lng": 77.054353,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6361838541",
+  "name": "HP Petrol Pump",
+  "category": "fuel",
+  "lat": 28.396163,
+  "lng": 76.933317,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/4162525662",
+  "name": "IBP Petrol Pump",
+  "category": "fuel",
+  "lat": 28.45579,
+  "lng": 77.046332,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/271336462",
+  "name": "IBP Petrol Station",
+  "category": "fuel",
+  "lat": 28.455489,
+  "lng": 77.028538,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1274598060",
+  "name": "IGL",
+  "category": "fuel",
+  "lat": 28.406072,
+  "lng": 77.043148,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1427643866",
+  "name": "IGL",
+  "category": "fuel",
+  "lat": 28.310444,
+  "lng": 77.066279,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/348232662",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.467233,
+  "lng": 77.036999,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1195003749",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.448671,
+  "lng": 77.077712,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/249054695",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.489238,
+  "lng": 77.090988,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/266374789",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.425517,
+  "lng": 77.03737,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/277420968",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.533693,
+  "lng": 77.10702,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/278166391",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.381893,
+  "lng": 76.967266,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/391978378",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.244435,
+  "lng": 77.072509,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/413315328",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.524895,
+  "lng": 77.100967,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/477905110",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.454169,
+  "lng": 77.029431,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1565310374",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.481943,
+  "lng": 77.1085,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1646596546",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.241917,
+  "lng": 77.074387,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1646596547",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.308866,
+  "lng": 77.06631,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/5604865251",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.545093,
+  "lng": 77.122099,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6221553474",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.450103,
+  "lng": 77.039498,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6361838543",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.411806,
+  "lng": 76.943373,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/8932842239",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.449574,
+  "lng": 76.999433,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10827129597",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.430078,
+  "lng": 77.081686,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/10916593203",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.461418,
+  "lng": 77.08437,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11281363109",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.297675,
+  "lng": 77.067116,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11281363125",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.264981,
+  "lng": 77.066648,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11313878861",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.466452,
+  "lng": 77.054945,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11834307466",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.408806,
+  "lng": 77.066511,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/14183072730",
+  "name": "Indian Oil",
+  "category": "fuel",
+  "lat": 28.442407,
+  "lng": 77.085614,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1996985486",
+  "name": "IOC COCO Manesar",
+  "category": "fuel",
+  "lat": 28.342601,
+  "lng": 76.937831,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/152216716",
+  "name": "K.G.U",
+  "category": "fuel",
+  "lat": 28.423917,
+  "lng": 77.147785,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/1543245083",
+  "name": "Nain Singh Tyagi filling station",
+  "category": "fuel",
+  "lat": 28.39266,
+  "lng": 77.061877,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11633746977",
+  "name": "Nayara",
+  "category": "fuel",
+  "lat": 28.422138,
+  "lng": 77.075323,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1996985488",
+  "name": "Petrol Pump",
+  "category": "fuel",
+  "lat": 28.376215,
+  "lng": 76.956786,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/278166488",
+  "name": "Petrol Pump IBP",
+  "category": "fuel",
+  "lat": 28.419222,
+  "lng": 76.997265,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/278166413",
+  "name": "Petrol Pump Indian Oil",
+  "category": "fuel",
+  "lat": 28.392661,
+  "lng": 76.978319,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/278166484",
+  "name": "Petrol Pump Indian Oil",
+  "category": "fuel",
+  "lat": 28.40981,
+  "lng": 76.992914,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/1996927297",
+  "name": "Petrol pump Maitri motors",
+  "category": "fuel",
+  "lat": 28.367599,
+  "lng": 76.942313,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/11873060520",
+  "name": "Rama Petrol Pump",
+  "category": "fuel",
+  "lat": 28.402806,
+  "lng": 77.000806,
+  "source": "osm"
+ },
+ {
+  "id": "osm:way/738481372",
+  "name": "Sector 9a Patrol Pump",
+  "category": "fuel",
+  "lat": 28.468836,
+  "lng": 77.004474,
+  "source": "osm"
+ },
+ {
+  "id": "osm:node/6361838542",
+  "name": "Vijay Petrol Pump",
+  "category": "fuel",
+  "lat": 28.398625,
+  "lng": 76.929525,
+  "source": "osm"
+ }
+]

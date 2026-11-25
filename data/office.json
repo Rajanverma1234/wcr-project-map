@@ -1,0 +1,16 @@
+{
+  "name": "White Collar Realty",
+  "address": "6th Floor, Tower A, M3M Urbana Business Park, Golf Course Extn Road, Sector 67, Gurugram, Haryana 122101",
+  "phones": [
+    "+91-8810286629",
+    "01244349007"
+  ],
+  "sourceUrl": "https://whitecollarrealty.com/contact_us",
+  "lat": null,
+  "lng": null,
+  "locationAccuracy": null,
+  "pageGeo": {
+    "lat": 28.4595,
+    "lng": 77.0266
+  }
+}

@@ -1,0 +1,8 @@
+node_modules/
+# Local settings (WCR_CONTACT for the Nominatim User-Agent); see .env.example
+.env
+dist/
+# Page cache written by the scraper (re-creatable with `npm run scrape`)
+data/raw/
+data/screenshots/
+data/*.log

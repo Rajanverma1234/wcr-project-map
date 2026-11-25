@@ -1,0 +1,12 @@
+{
+  "_about": "Spellings used on whitecollarrealty.com that OpenStreetMap does not know → the name OSM uses. Keys are matched case-insensitively as whole words. Add a line when a project's area fails to geocode.",
+  "aliases": {
+    "Gwal Pahri": "Gwal Pahari"
+  },
+  "localities": ["Sohna", "Gwal Pahari", "Manesar", "Badshahpur", "Pataudi", "Farrukhnagar"],
+  "notLocalities": [
+    "Sohna Road", "Sohna Rd", "Golf Course Road", "Golf Course Extension Road", "Golf Course Ext. Road", "Golf Course Extn Road",
+    "Dwarka Expressway", "Gwal Pahari Road", "Southern Peripheral Road", "SPR Road", "near IMT Manesar", "IMT Manesar Road",
+    "NH-48", "NH-8", "Manesar Road", "Badshahpur Road", "Pataudi Road", "Sohna-Gurgaon Road", "Gurgaon-Sohna Road"
+  ]
+}

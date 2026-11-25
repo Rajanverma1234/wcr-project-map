@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "igi-airport-terminal-3",
+    "name": "IGI Airport (Terminal 3)",
+    "category": "airport",
+    "lat": 28.5548742,
+    "lng": 77.0841684,
+    "verifiedWith": "OSM way/51419058 \"Terminal 3, Indira Gandhi International Airport\" via Nominatim, 2026-11-25"
+  },
+  {
+    "slug": "dlf-cyber-hub",
+    "name": "DLF Cyber Hub",
+    "category": "mall",
+    "lat": 28.4951011,
+    "lng": 77.0885127,
+    "aliases": ["Cyber Hub", "CyberHub"],
+    "verifiedWith": "OSM way/1449268449 \"DLF Cyber Hub\" (landuse=retail), Sector 25A, via Nominatim, 2026-11-25"
+  },
+  {
+    "slug": "ambience-mall",
+    "name": "Ambience Mall",
+    "category": "mall",
+    "lat": 28.5042019,
+    "lng": 77.0969541,
+    "aliases": ["Ambience Mall Gurgaon", "Ambience Mall Gurugram"],
+    "verifiedWith": "OSM node/11436616920 \"Ambience Mall\" (shop=mall), Sector 24, via Nominatim, 2026-11-25"
+  },
+  {
+    "slug": "medanta-the-medicity",
+    "name": "Medanta – The Medicity",
+    "category": "hospital",
+    "major": true,
+    "lat": 28.4389467,
+    "lng": 77.0402727,
+    "verifiedWith": "OSM way/348234206 \"Medanta The Medicity\" (healthcare=hospital), Sector 38, via Nominatim, 2026-11-25"
+  },
+  {
+    "slug": "artemis-hospital",
+    "name": "Artemis Hospital",
+    "category": "hospital",
+    "major": true,
+    "lat": 28.4311271,
+    "lng": 77.0718163,
+    "aliases": ["Artemis Health Institute", "Artemis Hospitals"],
+    "verifiedWith": "OSM way/343528163 \"Artemis Health Institute\" (amenity=hospital), Sector 51, via Nominatim, 2026-11-25"
+  },
+  {
+    "slug": "fortis-memorial-research-institute",
+    "name": "Fortis Memorial Research Institute",
+    "category": "hospital",
+    "major": true,
+    "lat": 28.4571214,
+    "lng": 77.072768,
+    "aliases": ["Fortis Memorial Research Institute / Fortis Vivekanand Hospital", "Fortis Hospital Gurugram", "FMRI"],
+    "verifiedWith": "OSM way/304203996 \"Fortis Memorial Research Institute\", Sector 44, via Nominatim, 2026-11-25"
+  },
+  {
+    "slug": "max-hospital-gurugram",
+    "name": "Max Hospital Gurugram",
+    "category": "hospital",
+    "major": true,
+    "lat": 28.4613236,
+    "lng": 77.0747246,
+    "aliases": ["Max Hospital", "Max Hospital Gurgaon"],
+    "verifiedWith": "OSM way/308510856 \"Max Hospital\" (amenity=hospital), B-Block Sushant Lok I, Sector 29, via Nominatim, 2026-11-25"
+  },
+  {
+    "slug": "paras-hospital-gurugram",
+    "name": "Paras Hospital Gurugram",
+    "category": "hospital",
+    "major": true,
+    "lat": 28.4511213,
+    "lng": 77.0875949,
+    "aliases": ["Paras Hospital", "Paras Hospital, Gurgaon"],
+    "verifiedWith": "OSM way/44035162 \"Paras Hospital\" (building), C-1 Sushant Lok Phase 1, Sector 43, via Nominatim, 2026-11-25"
+  },
+  {
+    "slug": "narayana-superspeciality-hospital",
+    "name": "Narayana Superspeciality Hospital",
+    "category": "hospital",
+    "major": true,
+    "lat": 28.4981571,
+    "lng": 77.1017103,
+    "aliases": ["Narayana multispeciaity hospital", "Narayana Multispeciality Hospital", "Narayana Hospital"],
+    "verifiedWith": "OSM node/12609739301 \"Narayana multispeciaity hospital\", Moulsari Road, Sector 24, via Nominatim, 2026-11-25; official address Plot 3201, Block V, DLF Phase III, Sector 24 (narayanahealth.org)"
+  },
+  {
+    "slug": "manipal-hospital-gurugram",
+    "name": "Manipal Hospital Gurugram (Palam Vihar)",
+    "category": "hospital",
+    "major": true,
+    "lat": 28.5091843,
+    "lng": 77.0413917,
+    "aliases": ["Columbia Asia Hospital", "Columbia Asia Hospital Gurugram", "Manipal Hospital"],
+    "verifiedWith": "OSM way/189108366 \"Columbia Asia Hospital\", Block F Palam Vihar, Sector 23A, via Nominatim, 2026-11-25; renamed Manipal Hospital (manipalhospitals.com: Ansal Plaza, near Gol Chakkar, Block F, Palam Vihar)"
+  },
+  {
+    "slug": "civil-hospital-gurugram",
+    "name": "Civil Hospital Gurugram",
+    "category": "hospital",
+    "major": true,
+    "lat": 28.4561622,
+    "lng": 76.9968009,
+    "aliases": ["Civil Hospital, Sector 10, Gurugram"],
+    "verifiedWith": "OSM way/190045089 \"Civil Hospital, Sector 10, Gurugram\" (amenity=hospital), via Nominatim, 2026-11-25. Not the Civil Hospital in Sohna."
+  },
+  {
+    "slug": "marengo-asia-hospital-gurugram",
+    "name": "Marengo Asia Hospital (formerly W Pratiksha)",
+    "category": "hospital",
+    "major": true,
+    "lat": null,
+    "lng": null,
+    "status": "needs-coordinates",
+    "aliases": ["W Pratiksha Hospital", "W Pratiksha"],
+    "verifiedWith": "NOT in OpenStreetMap/Nominatim under either name (checked 2026-11-25). Address: Golf Course Extension Road, Sushant Lok II, Sector 56, Gurugram 122011. Paste verified lat/lng here to enable it."
+  },
+  {
+    "slug": "millennium-city-centre-metro",
+    "name": "Millennium City Centre (HUDA City Centre) Metro",
+    "category": "metro",
+    "lat": 28.4593429,
+    "lng": 77.0726571,
+    "aliases": ["HUDA City Centre", "Huda City Center", "Millennium City Centre Gurugram", "Millennium City Centre"],
+    "verifiedWith": "OSM node/7018316590 \"Millennium City Centre Gurugram\" (railway=station), Sector 29, via Nominatim, 2026-11-25"
+  }
+]

@@ -1,0 +1,3392 @@
+{
+ "sector 15, gurugram, haryana": [
+  {
+   "place_id": 244994387,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3633983,
+   "lat": "28.3843199",
+   "lon": "76.9122326",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "city_district",
+   "name": "Sector 15",
+   "display_name": "Sector 15, Manesar, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3794851",
+    "28.3867902",
+    "76.9096825",
+    "76.9240718"
+   ]
+  }
+ ],
+ "32nd avenue milestone, sector 15, gurugram, haryana": [],
+ "32nd avenue milestone, gurugram, haryana": [],
+ "sector 63, gurugram, haryana": [
+  {
+   "place_id": 245323256,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2735984459,
+   "lat": "28.3964476",
+   "lon": "77.0864980",
+   "category": "place",
+   "type": "suburb",
+   "place_rank": 19,
+   "importance": 0.1467268764782177,
+   "addresstype": "suburb",
+   "name": "Sector 63",
+   "display_name": "Sector 63, Sohna, Gurugram, Haryana, 122008, India",
+   "boundingbox": [
+    "28.3764476",
+    "28.4164476",
+    "77.0664980",
+    "77.1064980"
+   ]
+  }
+ ],
+ "adani ivana, sector 63, gurugram, haryana": [],
+ "adani ivana, gurugram, haryana": [],
+ "sector 2, gurugram, haryana": [
+  {
+   "place_id": 245524959,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3593438,
+   "lat": "28.5090499",
+   "lon": "77.0342831",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 2",
+   "display_name": "Sector 2, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.5021117",
+    "28.5148941",
+    "77.0246723",
+    "77.0417925"
+   ]
+  }
+ ],
+ "adani lushlands, sector 2, gurugram, haryana": [],
+ "adani lushlands, gurugram, haryana": [],
+ "adani samsara vilasa, sector 63, gurugram, haryana": [],
+ "adani samsara vilasa, gurugram, haryana": [],
+ "sector 102, gurugram, haryana": [
+  {
+   "place_id": 244595052,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3593185,
+   "lat": "28.4754872",
+   "lon": "76.9711747",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 102",
+   "display_name": "Sector 102, Dhankot, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4678764",
+    "28.4860356",
+    "76.9607315",
+    "76.9808303"
+   ]
+  }
+ ],
+ "adani the marq, sector 102, gurugram, haryana": [],
+ "adani the marq, gurugram, haryana": [],
+ "sector 65, gurugram, haryana": [
+  {
+   "place_id": 244765291,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 5810652,
+   "lat": "28.4030162",
+   "lon": "77.0695893",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 65",
+   "display_name": "Sector 65, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3939999",
+    "28.4122793",
+    "77.0589847",
+    "77.0805790"
+   ]
+  }
+ ],
+ "aipl - joy central gurgaon, sector 65, gurugram, haryana": [
+  {
+   "place_id": 426652371,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1551937596,
+   "lat": "28.4051406",
+   "lon": "77.0606562",
+   "category": "shop",
+   "type": "mall",
+   "place_rank": 30,
+   "importance": 0.00006020981155103406,
+   "addresstype": "shop",
+   "name": "AIPL Joy Central",
+   "display_name": "AIPL Joy Central, Golf Course Extension Road, Sector 65, Gurugram, Haryana, 122008, India",
+   "boundingbox": [
+    "28.4045196",
+    "28.4054913",
+    "77.0601519",
+    "77.0612018"
+   ]
+  }
+ ],
+ "sector 66, gurugram, haryana": [
+  {
+   "place_id": 245743543,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2735984448,
+   "lat": "28.3974292",
+   "lon": "77.0538823",
+   "category": "place",
+   "type": "suburb",
+   "place_rank": 19,
+   "importance": 0.1467268764782177,
+   "addresstype": "suburb",
+   "name": "Sector 66",
+   "display_name": "Sector 66, Gurugram, Haryana, 122101, India",
+   "boundingbox": [
+    "28.3774292",
+    "28.4174292",
+    "77.0338823",
+    "77.0738823"
+   ]
+  },
+  {
+   "place_id": 245741339,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 5810512,
+   "lat": "28.3976576",
+   "lon": "77.0549384",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 25,
+   "importance": 0.06672687647821775,
+   "addresstype": "administrative",
+   "name": "Sector 66",
+   "display_name": "Sector 66, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3887545",
+    "28.4065560",
+    "77.0448633",
+    "77.0659928"
+   ]
+  }
+ ],
+ "aipl joy gallery, sector 66, gurugram, haryana": [],
+ "aipl joy gallery, gurugram, haryana": [],
+ "sector 103, gurugram, haryana": [
+  {
+   "place_id": 244742562,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3593213,
+   "lat": "28.4930870",
+   "lon": "76.9866453",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 103",
+   "display_name": "Sector 103, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4817885",
+    "28.5071706",
+    "76.9720448",
+    "76.9994099"
+   ]
+  }
+ ],
+ "aipl the riviera, sector 103, gurugram, haryana": [],
+ "aipl the riviera, gurugram, haryana": [],
+ "sector 63a, gurugram, haryana": [
+  {
+   "place_id": 244614428,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3603756,
+   "lat": "28.4616245",
+   "lon": "77.0566819",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "city_district",
+   "name": "Sector 30",
+   "display_name": "Sector 30, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4558177",
+    "28.4687352",
+    "77.0497732",
+    "77.0639896"
+   ]
+  },
+  {
+   "place_id": 245525992,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3596635,
+   "lat": "28.4676135",
+   "lon": "77.0510805",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "city_district",
+   "name": "Sector 16",
+   "display_name": "Sector 16, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4628761",
+    "28.4734241",
+    "77.0439461",
+    "77.0574099"
+   ]
+  },
+  {
+   "place_id": 245687797,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3600893,
+   "lat": "28.4913452",
+   "lon": "77.0710259",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 18",
+   "display_name": "Sector 18, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4791100",
+    "28.5036859",
+    "77.0561443",
+    "77.0862237"
+   ]
+  },
+  {
+   "place_id": 245744257,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3613076,
+   "lat": "28.4089049",
+   "lon": "76.9155232",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 92",
+   "display_name": "Sector 92, Bhangrola, Gurugram, Haryana, 122505, India",
+   "boundingbox": [
+    "28.4012233",
+    "28.4181216",
+    "76.8993916",
+    "76.9276849"
+   ]
+  },
+  {
+   "place_id": 245661074,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3585181,
+   "lat": "28.4669197",
+   "lon": "77.0671306",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 29",
+   "display_name": "Sector 29, Gurugram, Haryana, 122022, India",
+   "boundingbox": [
+    "28.4580915",
+    "28.4780640",
+    "77.0574099",
+    "77.0741115"
+   ]
+  }
+ ],
+ "sector 63a, gurgaon": [
+  {
+   "place_id": 428422246,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 5810644,
+   "lat": "28.3864052",
+   "lon": "77.0598046",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 67",
+   "display_name": "Sector 67, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3776928",
+    "28.3939999",
+    "77.0507838",
+    "77.0740103"
+   ]
+  },
+  {
+   "place_id": 243145937,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3586773,
+   "lat": "28.4415191",
+   "lon": "77.0968050",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 53",
+   "display_name": "Sector 53, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4312887",
+    "28.4502537",
+    "77.0876834",
+    "77.1053206"
+   ]
+  },
+  {
+   "place_id": 246237685,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3611775,
+   "lat": "28.4088081",
+   "lon": "77.0161691",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 73",
+   "display_name": "Sector 73, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4008164",
+    "28.4220077",
+    "77.0092134",
+    "77.0233009"
+   ]
+  },
+  {
+   "place_id": 246078661,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3600894,
+   "lat": "28.5030913",
+   "lon": "77.0817477",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 19",
+   "display_name": "Sector 19, Gurugram, Haryana, 122016, India",
+   "boundingbox": [
+    "28.4950144",
+    "28.5119073",
+    "77.0687536",
+    "77.0916743"
+   ]
+  },
+  {
+   "place_id": 246525993,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3611526,
+   "lat": "28.4219647",
+   "lon": "76.9568078",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 88",
+   "display_name": "Sector 88, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4120177",
+    "28.4299891",
+    "76.9498559",
+    "76.9641227"
+   ]
+  }
+ ],
+ "aipl- joy square, sector 63a, gurugram, haryana": [],
+ "aipl- joy square, gurugram, haryana": [],
+ "golf course extension road, gurgaon, haryana": [
+  {
+   "place_id": 244384521,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 137704389,
+   "lat": "28.4076552",
+   "lon": "77.0615981",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05339354314488438,
+   "addresstype": "secondary",
+   "name": "Golf Course Extension Road",
+   "display_name": "Golf Course Extension Road, The Close South, Sushant Lok III, Sector 50, Gurugram, Haryana, 122018, India",
+   "boundingbox": [
+    "28.4008222",
+    "28.4166115",
+    "77.0348267",
+    "77.0880117"
+   ]
+  },
+  {
+   "place_id": 244572854,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 137704392,
+   "lat": "28.4268754",
+   "lon": "77.1148888",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05339354314488438,
+   "addresstype": "secondary",
+   "name": "Golf Course Extension Road",
+   "display_name": "Golf Course Extension Road, Sector 58, Sohna, Gurugram, Haryana, 122011, India",
+   "boundingbox": [
+    "28.4193778",
+    "28.4363700",
+    "77.1052757",
+    "77.1226818"
+   ]
+  },
+  {
+   "place_id": 244774763,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1075069031,
+   "lat": "28.4172970",
+   "lon": "77.0968276",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05339354314488438,
+   "addresstype": "secondary",
+   "name": "Golf Course Extension Road",
+   "display_name": "Golf Course Extension Road, Sector 56, Sohna, Gurugram, Haryana, 122011, India",
+   "boundingbox": [
+    "28.4166604",
+    "28.4195386",
+    "77.0881931",
+    "77.1052480"
+   ]
+  },
+  {
+   "place_id": 244504149,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1075069033,
+   "lat": "28.4180982",
+   "lon": "77.1007608",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05339354314488438,
+   "addresstype": "secondary",
+   "name": "Golf Course Extension Road",
+   "display_name": "Golf Course Extension Road, Sector 55, Sohna, Gurugram, Haryana, 122011, India",
+   "boundingbox": [
+    "28.4171500",
+    "28.4193778",
+    "77.0961942",
+    "77.1052757"
+   ]
+  },
+  {
+   "place_id": 244369284,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1238534938,
+   "lat": "28.4172109",
+   "lon": "77.0921691",
+   "category": "highway",
+   "type": "secondary",
+   "place_rank": 26,
+   "importance": 0.05339354314488438,
+   "addresstype": "secondary",
+   "name": "Golf Course Extension Road",
+   "display_name": "Golf Course Extension Road, Sector 61, Sector 60, Sohna, Gurugram, Haryana, 122011, India",
+   "boundingbox": [
+    "28.4165176",
+    "28.4172422",
+    "77.0882409",
+    "77.0961942"
+   ]
+  }
+ ],
+ "sector 22, gurugram, haryana": [
+  {
+   "place_id": 245542654,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3600736,
+   "lat": "28.5063180",
+   "lon": "77.0655182",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 22",
+   "display_name": "Sector 22, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4970534",
+    "28.5114759",
+    "77.0575714",
+    "77.0714703"
+   ]
+  }
+ ],
+ "ambience - creacions, sector 22, gurugram, haryana": [
+  {
+   "place_id": 244902088,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 189119728,
+   "lat": "28.5051751",
+   "lon": "77.0672294",
+   "category": "landuse",
+   "type": "residential",
+   "place_rank": 24,
+   "importance": 0.08006020981155106,
+   "addresstype": "residential",
+   "name": "Ambience Creacions",
+   "display_name": "Ambience Creacions, HUDA, Sector 22, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.5037057",
+    "28.5064633",
+    "77.0661206",
+    "77.0687669"
+   ]
+  }
+ ],
+ "sector 24, gurugram, haryana": [
+  {
+   "place_id": 245694028,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3583036,
+   "lat": "28.4944811",
+   "lon": "77.1013038",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 24",
+   "display_name": "Sector 24, Gurugram, Haryana, 122010, India",
+   "boundingbox": [
+    "28.4815648",
+    "28.5070803",
+    "77.0909397",
+    "77.1195070"
+   ]
+  }
+ ],
+ "ambience caitriona, sector 24, gurugram, haryana": [
+  {
+   "place_id": 244419490,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2724843419,
+   "lat": "28.5028232",
+   "lon": "77.1003268",
+   "category": "landuse",
+   "type": "residential",
+   "place_rank": 30,
+   "importance": 0.00006020981155103406,
+   "addresstype": "landuse",
+   "name": "Caitriona",
+   "display_name": "Caitriona, Ambience Island, Golf Drive, Sector 24, Gurugram, Haryana, 122002, India",
+   "boundingbox": [
+    "28.5027732",
+    "28.5028732",
+    "77.1002768",
+    "77.1003768"
+   ]
+  }
+ ],
+ "anant raj sector 63a, sector 63a, gurugram, haryana": [],
+ "anant raj sector 63a, gurugram, haryana": [],
+ "anant raj the estate one, sector 63a, gurugram, haryana": [],
+ "anant raj the estate one, gurugram, haryana": [],
+ "gurgaon, haryana": [
+  {
+   "place_id": 243309583,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2718939516,
+   "lat": "28.4646148",
+   "lon": "77.0299194",
+   "category": "place",
+   "type": "city",
+   "place_rank": 16,
+   "importance": 0.5353287517772753,
+   "addresstype": "city",
+   "name": "Gurugram",
+   "display_name": "Gurugram, Haryana, 122001, India",
+   "boundingbox": [
+    "28.3046148",
+    "28.6246148",
+    "76.8699194",
+    "77.1899194"
+   ]
+  },
+  {
+   "place_id": 424086161,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3577685,
+   "lat": "28.3704288",
+   "lon": "76.9421372",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 10,
+   "importance": 0.457189794829536,
+   "addresstype": "state_district",
+   "name": "Gurugram",
+   "display_name": "Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.2005681",
+    "28.5409048",
+    "76.6510198",
+    "77.2418683"
+   ]
+  },
+  {
+   "place_id": 241901285,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 10398244,
+   "lat": "28.4282624",
+   "lon": "77.0027001",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 12,
+   "importance": 0.24006020981155105,
+   "addresstype": "county",
+   "name": "Gurugram",
+   "display_name": "Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3153915",
+    "28.5409048",
+    "76.8656338",
+    "77.1265409"
+   ]
+  }
+ ],
+ "anantraj estate- luxury estate villas, sector 63, gurugram, haryana": [],
+ "anantraj estate- luxury estate villas, gurugram, haryana": [],
+ "anantraj the estate residences, sector 63a, gurugram, haryana": [],
+ "anantraj the estate residences, gurugram, haryana": [],
+ "antara senior living by max estates, sector 63a, gurugram, haryana": [],
+ "antara senior living by max estates, gurugram, haryana": [],
+ "sector 88, gurugram, haryana": [
+  {
+   "place_id": 242088731,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3611526,
+   "lat": "28.4219647",
+   "lon": "76.9568078",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 88",
+   "display_name": "Sector 88, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4120177",
+    "28.4299891",
+    "76.9498559",
+    "76.9641227"
+   ]
+  }
+ ],
+ "bestech - central boulevard, sector 88, gurugram, haryana": [],
+ "bestech - central boulevard, gurugram, haryana": [],
+ "sector 81, gurugram, haryana": [
+  {
+   "place_id": 245376131,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3613068,
+   "lat": "28.3873647",
+   "lon": "76.9475835",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 20,
+   "importance": 0.1467268764782177,
+   "addresstype": "suburb",
+   "name": "Sector 81",
+   "display_name": "Sector 81, Manesar, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3810248",
+    "28.3955282",
+    "76.9358092",
+    "76.9566384"
+   ]
+  }
+ ],
+ "bestech- sky suites, sector 81, gurugram, haryana": [],
+ "bestech- sky suites, gurugram, haryana": [],
+ "sector 71, gurugram, haryana": [
+  {
+   "place_id": 245540449,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3611773,
+   "lat": "28.4064564",
+   "lon": "77.0233125",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 71",
+   "display_name": "Sector 71, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4005528",
+    "28.4200704",
+    "77.0160432",
+    "77.0308750"
+   ]
+  }
+ ],
+ "birla pravaah, sector 71, gurugram, haryana": [],
+ "birla pravaah, gurugram, haryana": [],
+ "bptp downtown 66, sector 66, gurugram, haryana": [],
+ "bptp downtown 66, gurugram, haryana": [],
+ "bptp gaia residences, sector 102, gurugram, haryana": [],
+ "bptp gaia residences, gurugram, haryana": [],
+ "sector 48, gurugram, haryana": [
+  {
+   "place_id": 244692314,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2735894483,
+   "lat": "28.4104903",
+   "lon": "77.0394627",
+   "category": "place",
+   "type": "suburb",
+   "place_rank": 19,
+   "importance": 0.1467268764782177,
+   "addresstype": "suburb",
+   "name": "Sector 48",
+   "display_name": "Sector 48, South End, Gurugram, Haryana, 122012, India",
+   "boundingbox": [
+    "28.3904903",
+    "28.4304903",
+    "77.0194627",
+    "77.0594627"
+   ]
+  }
+ ],
+ "central park - bellavista towers, sector 48, gurugram, haryana": [],
+ "central park - bellavista towers, gurugram, haryana": [],
+ "sector 33, gurugram, haryana": [
+  {
+   "place_id": 244914327,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3596109,
+   "lat": "28.4384785",
+   "lon": "77.0251655",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 33",
+   "display_name": "Sector 33, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4262264",
+    "28.4478757",
+    "77.0101187",
+    "77.0370191"
+   ]
+  }
+ ],
+ "central park - fleur villas, sector 33, gurugram, haryana": [],
+ "central park - fleur villas, gurugram, haryana": [],
+ "central park - mikasa plots, sector 33, gurugram, haryana": [],
+ "central park - mikasa plots, gurugram, haryana": [],
+ "central park - sky villas, sector 48, gurugram, haryana": [],
+ "central park - sky villas, gurugram, haryana": [],
+ "central park belanova, sector 48, gurugram, haryana": [],
+ "central park belanova, gurugram, haryana": [],
+ "sector 104, gurugram, haryana": [
+  {
+   "place_id": 244786732,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3593214,
+   "lat": "28.4795324",
+   "lon": "76.9937197",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 104",
+   "display_name": "Sector 104, Gurugram, Haryana, 122006, India",
+   "boundingbox": [
+    "28.4686072",
+    "28.4931639",
+    "76.9808303",
+    "77.0085706"
+   ]
+  }
+ ],
+ "central park delphine, sector 104, gurugram, haryana": [],
+ "central park delphine, gurugram, haryana": [],
+ "sector 32, gurugram, haryana": [
+  {
+   "place_id": 245544928,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3603804,
+   "lat": "28.4458035",
+   "lon": "77.0413169",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 32",
+   "display_name": "Sector 32, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4404721",
+    "28.4518372",
+    "77.0358890",
+    "77.0476423"
+   ]
+  }
+ ],
+ "central park flower valley, sector 32-33, gurugram, haryana": [],
+ "central park flower valley, gurugram, haryana": [],
+ "central park flower valley villas, sector 32-33, gurugram, haryana": [],
+ "central park flower valley villas, gurugram, haryana": [],
+ "central park resorts, sector 48, gurugram, haryana": [],
+ "central park resorts, gurugram, haryana": [],
+ "central park resorts apporva, sector 48, gurugram, haryana": [],
+ "central park resorts apporva, gurugram, haryana": [],
+ "central park villas mira vita, gurugram, haryana": [],
+ "sohna, gurgaon, haryana": [
+  {
+   "place_id": 424086162,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 10398245,
+   "lat": "28.3241636",
+   "lon": "77.0848644",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 12,
+   "importance": 0.24006020981155105,
+   "addresstype": "county",
+   "name": "Sohna",
+   "display_name": "Sohna, Gurugram, Haryana, 122102, India",
+   "boundingbox": [
+    "28.2005681",
+    "28.4465841",
+    "77.0031377",
+    "77.2418683"
+   ]
+  },
+  {
+   "place_id": 245097413,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 1307288992,
+   "lat": "28.2459908",
+   "lon": "77.0670992",
+   "category": "place",
+   "type": "town",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "town",
+   "name": "Sohna",
+   "display_name": "Sohna, Gurugram, Haryana, 122103, India",
+   "boundingbox": [
+    "28.2059908",
+    "28.2859908",
+    "77.0270992",
+    "77.1070992"
+   ]
+  }
+ ],
+ "central park- cerise suites, sector 33, gurugram, haryana": [],
+ "central park- cerise suites, gurugram, haryana": [],
+ "sector 88a, gurugram, haryana": [
+  {
+   "place_id": 244867496,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3755626,
+   "lat": "28.4337898",
+   "lon": "76.9539433",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 20,
+   "importance": 0.1467268764782177,
+   "addresstype": "suburb",
+   "name": "Sector 88A",
+   "display_name": "Sector 88A, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4279229",
+    "28.4391412",
+    "76.9485789",
+    "76.9612918"
+   ]
+  }
+ ],
+ "cocoa county by county group, sector 88a, gurugram, haryana": [],
+ "cocoa county by county group, gurugram, haryana": [],
+ "conscient hines elevate 3.0, sector 63a, gurugram, haryana": [],
+ "conscient hines elevate 3.0, gurugram, haryana": [],
+ "sector 59, gurugram, haryana": [
+  {
+   "place_id": 244370253,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2735984441,
+   "lat": "28.4030162",
+   "lon": "77.1066682",
+   "category": "place",
+   "type": "suburb",
+   "place_rank": 19,
+   "importance": 0.1467268764782177,
+   "addresstype": "suburb",
+   "name": "Sector 59",
+   "display_name": "Sector 59, Ireo City, Sohna, Gurugram, Haryana, 122011, India",
+   "boundingbox": [
+    "28.3830162",
+    "28.4230162",
+    "77.0866682",
+    "77.1266682"
+   ]
+  }
+ ],
+ "conscient hines- elevate, sector 59, gurugram, haryana": [],
+ "conscient hines- elevate, gurugram, haryana": [],
+ "sector 74a, gurugram, haryana": [
+  {
+   "place_id": 242506834,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3611748,
+   "lat": "28.4108506",
+   "lon": "76.9991194",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 74A",
+   "display_name": "Sector 74A, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4023072",
+    "28.4129635",
+    "76.9904974",
+    "77.0076130"
+   ]
+  }
+ ],
+ "dlf - corporate greens, sector 74a, gurugram, haryana": [],
+ "dlf - corporate greens, gurugram, haryana": [],
+ "dlf - ultima, sector 81, gurugram, haryana": [],
+ "dlf - ultima, gurugram, haryana": [],
+ "dlf arbour 2, sector 63, gurugram, haryana": [],
+ "dlf arbour 2, gurugram, haryana": [],
+ "sector 28, gurugram, haryana": [
+  {
+   "place_id": 243155951,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3578376,
+   "lat": "28.4741302",
+   "lon": "77.0825722",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 28",
+   "display_name": "Sector 28, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4679062",
+    "28.4814775",
+    "77.0715635",
+    "77.0946320"
+   ]
+  }
+ ],
+ "dlf hamilton court 2, sector 28, gurugram, haryana": [],
+ "dlf hamilton court 2, gurugram, haryana": [
+  {
+   "place_id": 244587822,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 40122706,
+   "lat": "28.4678543",
+   "lon": "77.0843509",
+   "category": "landuse",
+   "type": "residential",
+   "place_rank": 24,
+   "importance": 0.08006020981155106,
+   "addresstype": "residential",
+   "name": "DLF Hamilton Court",
+   "display_name": "DLF Hamilton Court, IFFCO Chowk, Sector 27, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4678074",
+    "28.4679040",
+    "77.0840630",
+    "77.0846388"
+   ]
+  }
+ ],
+ "sector 42, gurugram, haryana": [
+  {
+   "place_id": 245032072,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3586296,
+   "lat": "28.4558973",
+   "lon": "77.1084759",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 42",
+   "display_name": "Sector 42, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4492302",
+    "28.4679478",
+    "77.0952570",
+    "77.1220533"
+   ]
+  }
+ ],
+ "dlf magnolias, sector 42, gurugram, haryana": [
+  {
+   "place_id": 241986002,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1447830550,
+   "lat": "28.4549604",
+   "lon": "77.0991839",
+   "category": "place",
+   "type": "neighbourhood",
+   "place_rank": 24,
+   "importance": 0.08006020981155106,
+   "addresstype": "neighbourhood",
+   "name": "DLF Golf Links",
+   "display_name": "DLF Golf Links, DLF 5, Sector 42, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4497184",
+    "28.4605226",
+    "77.0980040",
+    "77.1053967"
+   ]
+  }
+ ],
+ "dlf magnolias, gurugram, haryana": [
+  {
+   "place_id": 241986002,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1447830550,
+   "lat": "28.4549604",
+   "lon": "77.0991839",
+   "category": "place",
+   "type": "neighbourhood",
+   "place_rank": 24,
+   "importance": 0.08006020981155106,
+   "addresstype": "neighbourhood",
+   "name": "DLF Golf Links",
+   "display_name": "DLF Golf Links, DLF 5, Sector 42, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4497184",
+    "28.4605226",
+    "77.0980040",
+    "77.1053967"
+   ]
+  }
+ ],
+ "dlf magnolias 2, sector 28, gurugram, haryana": [],
+ "dlf magnolias 2, gurugram, haryana": [
+  {
+   "place_id": 241986002,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1447830550,
+   "lat": "28.4549604",
+   "lon": "77.0991839",
+   "category": "place",
+   "type": "neighbourhood",
+   "place_rank": 24,
+   "importance": 0.08006020981155106,
+   "addresstype": "neighbourhood",
+   "name": "DLF Golf Links",
+   "display_name": "DLF Golf Links, DLF 5, Sector 42, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4497184",
+    "28.4605226",
+    "77.0980040",
+    "77.1053967"
+   ]
+  }
+ ],
+ "dlf sector 63 gurgaon, sector 63, gurugram, haryana": [],
+ "dlf sector 63 gurgaon, gurugram, haryana": [
+  {
+   "place_id": 244780712,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1234311689,
+   "lat": "28.5034450",
+   "lon": "77.0952048",
+   "category": "landuse",
+   "type": "commercial",
+   "place_rank": 24,
+   "importance": 0.08006020981155106,
+   "addresstype": "commercial",
+   "name": "DLF Downtown Gurugram",
+   "display_name": "DLF Downtown Gurugram, Commercial Site, Block 5 , DLF City Phase 3, Sector 25A, Sector 24, Gurugram, Haryana, 122002, India",
+   "boundingbox": [
+    "28.5019932",
+    "28.5052675",
+    "77.0938062",
+    "77.0966821"
+   ]
+  }
+ ],
+ "dlf senior living, sector 63, gurugram, haryana": [],
+ "dlf senior living, gurugram, haryana": [],
+ "dlf the arbour, sector 63, gurugram, haryana": [],
+ "dlf the arbour, gurugram, haryana": [],
+ "dlf the aureva, sector 63, gurugram, haryana": [],
+ "dlf the aureva, gurugram, haryana": [],
+ "dlf the camellias, sector 42, gurugram, haryana": [],
+ "dlf the camellias, gurugram, haryana": [],
+ "sector 54, gurugram, haryana": [
+  {
+   "place_id": 245131203,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3586366,
+   "lat": "28.4421059",
+   "lon": "77.1112654",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 54",
+   "display_name": "Sector 54, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4313367",
+    "28.4504499",
+    "77.0994329",
+    "77.1220533"
+   ]
+  }
+ ],
+ "dlf the crest, sector 54, gurugram, haryana": [],
+ "dlf the crest, gurugram, haryana": [],
+ "dlf- summit plaza, sector 54, gurugram, haryana": [],
+ "dlf- summit plaza, gurugram, haryana": [],
+ "sector 50, gurugram, haryana": [
+  {
+   "place_id": 243150868,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3606795,
+   "lat": "28.4166536",
+   "lon": "77.0611745",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 50",
+   "display_name": "Sector 50, Samaspur, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4065560",
+    "28.4265483",
+    "77.0518744",
+    "77.0746581"
+   ]
+  }
+ ],
+ "elan - paradise, sector 50, gurugram, haryana": [],
+ "elan - paradise, gurugram, haryana": [],
+ "elan empire, sector 66, gurugram, haryana": [],
+ "elan empire, gurugram, haryana": [],
+ "sector 70, gurugram, haryana": [
+  {
+   "place_id": 244563452,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2735856054,
+   "lat": "28.3947261",
+   "lon": "77.0223138",
+   "category": "place",
+   "type": "suburb",
+   "place_rank": 19,
+   "importance": 0.1467268764782177,
+   "addresstype": "suburb",
+   "name": "Sector 70",
+   "display_name": "Sector 70, Gurugram, Haryana, 122015, India",
+   "boundingbox": [
+    "28.3747261",
+    "28.4147261",
+    "77.0023138",
+    "77.0423138"
+   ]
+  }
+ ],
+ "elan epic, sector 70, gurugram, haryana": [],
+ "elan epic, gurugram, haryana": [],
+ "sector 84, gurugram, haryana": [
+  {
+   "place_id": 244665264,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3600893,
+   "lat": "28.4913452",
+   "lon": "77.0710259",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 18",
+   "display_name": "Sector 18, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4791100",
+    "28.5036859",
+    "77.0561443",
+    "77.0862237"
+   ]
+  },
+  {
+   "place_id": 244634108,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3593237,
+   "lat": "28.5128994",
+   "lon": "76.9823615",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 108",
+   "display_name": "Sector 108, Dharampur, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.5071706",
+    "28.5212528",
+    "76.9706359",
+    "76.9991059"
+   ]
+  },
+  {
+   "place_id": 244592005,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3613076,
+   "lat": "28.4089049",
+   "lon": "76.9155232",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 92",
+   "display_name": "Sector 92, Bhangrola, Gurugram, Haryana, 122505, India",
+   "boundingbox": [
+    "28.4012233",
+    "28.4181216",
+    "76.8993916",
+    "76.9276849"
+   ]
+  },
+  {
+   "place_id": 244716372,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3585181,
+   "lat": "28.4669197",
+   "lon": "77.0671306",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 29",
+   "display_name": "Sector 29, Gurugram, Haryana, 122022, India",
+   "boundingbox": [
+    "28.4580915",
+    "28.4780640",
+    "77.0574099",
+    "77.0741115"
+   ]
+  },
+  {
+   "place_id": 244469640,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3613075,
+   "lat": "28.4007588",
+   "lon": "76.9210802",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 91",
+   "display_name": "Sector 91, Bhangrola, Gurugram, Haryana, 122505, India",
+   "boundingbox": [
+    "28.3937778",
+    "28.4084230",
+    "76.9086172",
+    "76.9313357"
+   ]
+  }
+ ],
+ "sector 84, gurgaon": [
+  {
+   "place_id": 244616865,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3583036,
+   "lat": "28.4944811",
+   "lon": "77.1013038",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 24",
+   "display_name": "Sector 24, Gurugram, Haryana, 122010, India",
+   "boundingbox": [
+    "28.4815648",
+    "28.5070803",
+    "77.0909397",
+    "77.1195070"
+   ]
+  },
+  {
+   "place_id": 245113172,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3593214,
+   "lat": "28.4795324",
+   "lon": "76.9937197",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 104",
+   "display_name": "Sector 104, Gurugram, Haryana, 122006, India",
+   "boundingbox": [
+    "28.4686072",
+    "28.4931639",
+    "76.9808303",
+    "77.0085706"
+   ]
+  },
+  {
+   "place_id": 245099739,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3611779,
+   "lat": "28.4280033",
+   "lon": "77.0115678",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 34",
+   "display_name": "Sector 34, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4209609",
+    "28.4358808",
+    "77.0003673",
+    "77.0202659"
+   ]
+  },
+  {
+   "place_id": 242030378,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3611525,
+   "lat": "28.4036520",
+   "lon": "76.9531428",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 85",
+   "display_name": "Sector 85, Manesar, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3955282",
+    "28.4120177",
+    "76.9453919",
+    "76.9608587"
+   ]
+  },
+  {
+   "place_id": 245024241,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3611522,
+   "lat": "28.3858766",
+   "lon": "76.9639317",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 82A",
+   "display_name": "Sector 82A, Manesar, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3790600",
+    "28.3916719",
+    "76.9566384",
+    "76.9728308"
+   ]
+  }
+ ],
+ "elan miracle, sector 84, gurugram, haryana": [],
+ "elan miracle, gurugram, haryana": [],
+ "dwarka expressway, gurugram, haryana": [
+  {
+   "place_id": 424573648,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 661385367,
+   "lat": "28.4140765",
+   "lon": "76.9771341",
+   "category": "highway",
+   "type": "motorway",
+   "place_rank": 26,
+   "importance": 0.23094323434513592,
+   "addresstype": "motorway",
+   "name": "Dwarka Expressway",
+   "display_name": "Dwarka Expressway, Sector 36A, Gurugram, Haryana, 122004, India",
+   "boundingbox": [
+    "28.4098764",
+    "28.4174971",
+    "76.9700868",
+    "76.9838013"
+   ]
+  },
+  {
+   "place_id": 424573668,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1163433889,
+   "lat": "28.4649802",
+   "lon": "76.9693675",
+   "category": "highway",
+   "type": "motorway",
+   "place_rank": 26,
+   "importance": 0.23094323434513592,
+   "addresstype": "motorway",
+   "name": "Dwarka Expressway",
+   "display_name": "Dwarka Expressway, Sector 100, Gurugram, Haryana, 122006, India",
+   "boundingbox": [
+    "28.4629875",
+    "28.4668475",
+    "76.9678733",
+    "76.9710192"
+   ]
+  },
+  {
+   "place_id": 424573676,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1218120335,
+   "lat": "28.4364143",
+   "lon": "76.9602210",
+   "category": "highway",
+   "type": "motorway",
+   "place_rank": 26,
+   "importance": 0.23094323434513592,
+   "addresstype": "motorway",
+   "name": "Dwarka Expressway",
+   "display_name": "Dwarka Expressway, Sector 88A, Gurugram, Haryana, 122505, India",
+   "boundingbox": [
+    "28.4337314",
+    "28.4391195",
+    "76.9600616",
+    "76.9605926"
+   ]
+  },
+  {
+   "place_id": 424574361,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1078499220,
+   "lat": "28.4065770",
+   "lon": "76.9886185",
+   "category": "highway",
+   "type": "motorway",
+   "place_rank": 26,
+   "importance": 0.23094323434513592,
+   "addresstype": "motorway",
+   "name": "Dwarka Expressway",
+   "display_name": "Dwarka Expressway, Sector 35, Gurugram, Haryana, 122004, India",
+   "boundingbox": [
+    "28.4061590",
+    "28.4069950",
+    "76.9876380",
+    "76.9895989"
+   ]
+  },
+  {
+   "place_id": 424573709,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1430453138,
+   "lat": "28.4623360",
+   "lon": "76.9674431",
+   "category": "highway",
+   "type": "motorway",
+   "place_rank": 26,
+   "importance": 0.23094323434513592,
+   "addresstype": "motorway",
+   "name": "Dwarka Expressway",
+   "display_name": "Dwarka Expressway, Sector 100, Dhankot, Gurugram, Haryana, 122006, India",
+   "boundingbox": [
+    "28.4616844",
+    "28.4629875",
+    "76.9670130",
+    "76.9678733"
+   ]
+  }
+ ],
+ "sector 106, gurugram, haryana": [
+  {
+   "place_id": 244991748,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3593234,
+   "lat": "28.5060806",
+   "lon": "76.9967796",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 106",
+   "display_name": "Sector 106, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4931639",
+    "28.5144465",
+    "76.9854207",
+    "77.0081750"
+   ]
+  }
+ ],
+ "elan the mark, sector 106, gurugram, haryana": [],
+ "elan the mark, gurugram, haryana": [],
+ "elan the presidential, sector 106, gurugram, haryana": [],
+ "elan the presidential, gurugram, haryana": [],
+ "sector 49, gurugram, haryana": [
+  {
+   "place_id": 245712958,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3606794,
+   "lat": "28.4128851",
+   "lon": "77.0498362",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 49",
+   "display_name": "Sector 49, Gurugram, Haryana, 122018, India",
+   "boundingbox": [
+    "28.4013433",
+    "28.4208461",
+    "77.0403237",
+    "77.0589847"
+   ]
+  }
+ ],
+ "elan the statement, sector 49, gurugram, haryana": [],
+ "elan the statement, gurugram, haryana": [],
+ "sector 67, gurugram, haryana": [
+  {
+   "place_id": 427648399,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 5810644,
+   "lat": "28.3864052",
+   "lon": "77.0598046",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 67",
+   "display_name": "Sector 67, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3776928",
+    "28.3939999",
+    "77.0507838",
+    "77.0740103"
+   ]
+  }
+ ],
+ "elan town centre, sector 67, gurugram, haryana": [],
+ "elan town centre, gurugram, haryana": [],
+ "sector 62, gurugram, haryana": [
+  {
+   "place_id": 244638218,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 5807782,
+   "lat": "28.4076970",
+   "lon": "77.0823781",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 62",
+   "display_name": "Sector 62, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3994698",
+    "28.4173299",
+    "77.0746581",
+    "77.0923553"
+   ]
+  }
+ ],
+ "emaar - digihomes, sector 62, gurugram, haryana": [],
+ "emaar - digihomes, gurugram, haryana": [],
+ "sector 114, gurugram, haryana": [
+  {
+   "place_id": 244950121,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3587969,
+   "lat": "28.5318781",
+   "lon": "77.0117794",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.1600375013351644,
+   "addresstype": "neighbourhood",
+   "name": "Sector 114",
+   "display_name": "Sector 114, South Dwarka, Bajghera, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.5257745",
+    "28.5405156",
+    "77.0050158",
+    "77.0197006"
+   ]
+  },
+  {
+   "place_id": 245060798,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2728267868,
+   "lat": "28.5327129",
+   "lon": "77.0122454",
+   "category": "place",
+   "type": "neighbourhood",
+   "place_rank": 24,
+   "importance": 0.08003750133516438,
+   "addresstype": "neighbourhood",
+   "name": "Sector 114",
+   "display_name": "Sector 114, South Dwarka, Gurugram, Haryana, 122017, India",
+   "boundingbox": [
+    "28.5227129",
+    "28.5427129",
+    "77.0022454",
+    "77.0222454"
+   ]
+  }
+ ],
+ "emaar - ebd 114, sector 114, gurugram, haryana": [],
+ "emaar - ebd 114, gurugram, haryana": [],
+ "emaar - marbella villas, sector 66, gurugram, haryana": [],
+ "emaar - marbella villas, gurugram, haryana": [],
+ "emaar amaris, sector 62, gurugram, haryana": [],
+ "emaar amaris, gurugram, haryana": [],
+ "emaar business square, sector 65, gurugram, haryana": [],
+ "emaar business square, gurugram, haryana": [],
+ "emaar digi homes phase 2, sector 62, gurugram, haryana": [],
+ "emaar digi homes phase 2, gurugram, haryana": [],
+ "emaar ebd 65, sector 65, gurugram, haryana": [],
+ "emaar ebd 65, gurugram, haryana": [],
+ "sector 86, gurugram, haryana": [
+  {
+   "place_id": 244694566,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3613069,
+   "lat": "28.3981205",
+   "lon": "76.9411257",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 86",
+   "display_name": "Sector 86, Manesar, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3880122",
+    "28.4072042",
+    "76.9313357",
+    "76.9509035"
+   ]
+  }
+ ],
+ "emaar serenity hills, sector 86, gurugram, haryana": [],
+ "emaar serenity hills, gurugram, haryana": [],
+ "experion emerelle reserve, sector 88a, gurugram, haryana": [],
+ "experion emerelle reserve, gurugram, haryana": [],
+ "experion one42, sector 42, gurugram, haryana": [],
+ "experion one42, gurugram, haryana": [],
+ "experion the trillion, sector 48, gurugram, haryana": [],
+ "experion the trillion, gurugram, haryana": [],
+ "sector 112, gurugram, haryana": [
+  {
+   "place_id": 244390961,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3593257,
+   "lat": "28.5203402",
+   "lon": "77.0188612",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "neighbourhood",
+   "name": "Sector 112",
+   "display_name": "Sector 112, South Dwarka, Bajghera, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.5133462",
+    "28.5348138",
+    "77.0105771",
+    "77.0234394"
+   ]
+  }
+ ],
+ "experion windchants nova, sector 112, gurugram, haryana": [],
+ "experion windchants nova, gurugram, haryana": [],
+ "experion windchants villa, sector 112, gurugram, haryana": [],
+ "experion windchants villa, gurugram, haryana": [],
+ "ganga nandaka, sector 84, gurugram, haryana": [],
+ "ganga nandaka, gurugram, haryana": [],
+ "sector 39, gurugram, haryana": [
+  {
+   "place_id": 245629886,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3603814,
+   "lat": "28.4423675",
+   "lon": "77.0504724",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 39",
+   "display_name": "Sector 39, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4346743",
+    "28.4491446",
+    "77.0414743",
+    "77.0581972"
+   ]
+  }
+ ],
+ "godrej alira sector 39, sector 39, gurugram, haryana": [],
+ "godrej alira sector 39, gurugram, haryana": [],
+ "godrej astra, sector 54, gurugram, haryana": [
+  {
+   "place_id": 421446273,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1374374907,
+   "lat": "28.4328439",
+   "lon": "77.1059455",
+   "category": "landuse",
+   "type": "construction",
+   "place_rank": 24,
+   "importance": 0.08006020981155106,
+   "addresstype": "construction",
+   "name": "Godrej Astra",
+   "display_name": "Godrej Astra, Sun City, Sector 54, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4322369",
+    "28.4336234",
+    "77.1054449",
+    "77.1070298"
+   ]
+  }
+ ],
+ "sector 43, gurugram, haryana": [
+  {
+   "place_id": 244391958,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3580927,
+   "lat": "28.4548735",
+   "lon": "77.0858864",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 43",
+   "display_name": "Sector 43, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4473152",
+    "28.4631626",
+    "77.0741115",
+    "77.0994329"
+   ]
+  }
+ ],
+ "godrej miraya, sector 43, gurugram, haryana": [],
+ "godrej miraya, gurugram, haryana": [],
+ "sector 53, gurugram, haryana": [
+  {
+   "place_id": 243145937,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3586773,
+   "lat": "28.4415191",
+   "lon": "77.0968050",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 53",
+   "display_name": "Sector 53, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4312887",
+    "28.4502537",
+    "77.0876834",
+    "77.1053206"
+   ]
+  }
+ ],
+ "godrej samaris, sector 53, gurugram, haryana": [
+  {
+   "place_id": 420514321,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1441600442,
+   "lat": "28.4351162",
+   "lon": "77.1000123",
+   "category": "landuse",
+   "type": "construction",
+   "place_rank": 24,
+   "importance": 0.08006020981155106,
+   "addresstype": "construction",
+   "name": "Godrej Samaris",
+   "display_name": "Godrej Samaris, GH-24, Sector 53, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4342211",
+    "28.4360000",
+    "77.0985936",
+    "77.1014551"
+   ]
+  }
+ ],
+ "godrej sora, sector 53, gurugram, haryana": [],
+ "godrej sora, gurugram, haryana": [],
+ "godrej verano, sector 63a, gurugram, haryana": [],
+ "godrej verano, gurugram, haryana": [],
+ "gurugram, haryana": [
+  {
+   "place_id": 244456894,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2718939516,
+   "lat": "28.4646148",
+   "lon": "77.0299194",
+   "category": "place",
+   "type": "city",
+   "place_rank": 16,
+   "importance": 0.5353287517772753,
+   "addresstype": "city",
+   "name": "Gurugram",
+   "display_name": "Gurugram, Haryana, 122001, India",
+   "boundingbox": [
+    "28.3046148",
+    "28.6246148",
+    "76.8699194",
+    "77.1899194"
+   ]
+  },
+  {
+   "place_id": 423711432,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3577685,
+   "lat": "28.3704288",
+   "lon": "76.9421372",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 10,
+   "importance": 0.457189794829536,
+   "addresstype": "state_district",
+   "name": "Gurugram",
+   "display_name": "Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.2005681",
+    "28.5409048",
+    "76.6510198",
+    "77.2418683"
+   ]
+  },
+  {
+   "place_id": 244739131,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 10398244,
+   "lat": "28.4282624",
+   "lon": "77.0027001",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 12,
+   "importance": 0.24006020981155105,
+   "addresstype": "county",
+   "name": "Gurugram",
+   "display_name": "Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3153915",
+    "28.5409048",
+    "76.8656338",
+    "77.1265409"
+   ]
+  }
+ ],
+ "sector 58, gurugram, haryana": [
+  {
+   "place_id": 244745393,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 5807690,
+   "lat": "28.4160012",
+   "lon": "77.1085564",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 58",
+   "display_name": "Sector 58, Sohna, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4086456",
+    "28.4281810",
+    "77.1011878",
+    "77.1182005"
+   ]
+  }
+ ],
+ "grand hyatt residences, sector 58, gurugram, haryana": [],
+ "grand hyatt residences, gurugram, haryana": [],
+ "sector 67a, gurugram, haryana": [
+  {
+   "place_id": 245352371,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3633944,
+   "lat": "28.3661709",
+   "lon": "76.8916108",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "city_district",
+   "name": "Sector 3A",
+   "display_name": "Sector 3A, Manesar, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3590267",
+    "28.3725763",
+    "76.8779732",
+    "76.9048621"
+   ]
+  },
+  {
+   "place_id": 245351351,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3632378,
+   "lat": "28.3601020",
+   "lon": "76.9483754",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "city_district",
+   "name": "Sector 1",
+   "display_name": "Sector 1, Manesar, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3485815",
+    "28.3716597",
+    "76.9400968",
+    "76.9592194"
+   ]
+  },
+  {
+   "place_id": 245325495,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3611523,
+   "lat": "28.3981087",
+   "lon": "76.9732873",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 83",
+   "display_name": "Sector 83, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3862180",
+    "28.4051340",
+    "76.9608587",
+    "76.9825179"
+   ]
+  },
+  {
+   "place_id": 245354955,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3580927,
+   "lat": "28.4548735",
+   "lon": "77.0858864",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 43",
+   "display_name": "Sector 43, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4473152",
+    "28.4631626",
+    "77.0741115",
+    "77.0994329"
+   ]
+  },
+  {
+   "place_id": 245460099,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3633992,
+   "lat": "28.3781429",
+   "lon": "76.8753775",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "city_district",
+   "name": "Sector 11",
+   "display_name": "Sector 11, Manesar, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3590267",
+    "28.3957333",
+    "76.8696144",
+    "76.8796311"
+   ]
+  }
+ ],
+ "sector 67a, gurgaon": [
+  {
+   "place_id": 428422246,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 5810644,
+   "lat": "28.3864052",
+   "lon": "77.0598046",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 67",
+   "display_name": "Sector 67, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3776928",
+    "28.3939999",
+    "77.0507838",
+    "77.0740103"
+   ]
+  },
+  {
+   "place_id": 246237685,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3611775,
+   "lat": "28.4088081",
+   "lon": "77.0161691",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 73",
+   "display_name": "Sector 73, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4008164",
+    "28.4220077",
+    "77.0092134",
+    "77.0233009"
+   ]
+  },
+  {
+   "place_id": 247538080,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3613070,
+   "lat": "28.3922194",
+   "lon": "76.9291703",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 87",
+   "display_name": "Sector 87, Bhangrola, Gurugram, Haryana, 122505, India",
+   "boundingbox": [
+    "28.3856785",
+    "28.4000575",
+    "76.9192621",
+    "76.9358092"
+   ]
+  },
+  {
+   "place_id": 243154784,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3633263,
+   "lat": "28.3760278",
+   "lon": "76.9122152",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "city_district",
+   "name": "Sector 7",
+   "display_name": "Sector 7, Manesar, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3722399",
+    "28.3797902",
+    "76.9048202",
+    "76.9196319"
+   ]
+  },
+  {
+   "place_id": 246078661,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3600894,
+   "lat": "28.5030913",
+   "lon": "77.0817477",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 19",
+   "display_name": "Sector 19, Gurugram, Haryana, 122016, India",
+   "boundingbox": [
+    "28.4950144",
+    "28.5119073",
+    "77.0687536",
+    "77.0916743"
+   ]
+  }
+ ],
+ "ireo corridor sector 67a, sector 67a, gurugram, haryana": [],
+ "ireo corridor sector 67a, gurugram, haryana": [],
+ "sector 36a, gurugram, haryana": [
+  {
+   "place_id": 244602595,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2735894492,
+   "lat": "28.4202285",
+   "lon": "76.9719998",
+   "category": "place",
+   "type": "suburb",
+   "place_rank": 19,
+   "importance": 0.1467268764782177,
+   "addresstype": "suburb",
+   "name": "Sector 36A",
+   "display_name": "Sector 36A, Gurugram, Haryana, 122004, India",
+   "boundingbox": [
+    "28.4002285",
+    "28.4402285",
+    "76.9519998",
+    "76.9919998"
+   ]
+  }
+ ],
+ "krisumi waterfall residences, sector 36a, gurugram, haryana": [],
+ "krisumi waterfall residences, gurugram, haryana": [],
+ "krrish - provence, gurugram, haryana": [
+  {
+   "place_id": 244474005,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1366740994,
+   "lat": "28.4313911",
+   "lon": "77.1428877",
+   "category": "landuse",
+   "type": "residential",
+   "place_rank": 24,
+   "importance": 0.08006020981155106,
+   "addresstype": "residential",
+   "name": "Krrish Provence Estate",
+   "display_name": "Krrish Provence Estate, Sohna, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4298068",
+    "28.4327591",
+    "77.1420212",
+    "77.1445309"
+   ]
+  }
+ ],
+ "m3m - golf estate, sector 65, gurugram, haryana": [
+  {
+   "place_id": 245647446,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3646897,
+   "lat": "28.4011436",
+   "lon": "77.0664133",
+   "category": "place",
+   "type": "neighbourhood",
+   "place_rank": 24,
+   "importance": 0.08006020981155106,
+   "addresstype": "neighbourhood",
+   "name": "M3M Golf Estate",
+   "display_name": "M3M Golf Estate, Sector 65, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3983431",
+    "28.4059755",
+    "77.0627096",
+    "77.0751832"
+   ]
+  }
+ ],
+ "m3m - golf estate, gurugram, haryana": [
+  {
+   "place_id": 246505289,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3646897,
+   "lat": "28.4011436",
+   "lon": "77.0664133",
+   "category": "place",
+   "type": "neighbourhood",
+   "place_rank": 24,
+   "importance": 0.08006020981155106,
+   "addresstype": "neighbourhood",
+   "name": "M3M Golf Estate",
+   "display_name": "M3M Golf Estate, Sector 65, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3983431",
+    "28.4059755",
+    "77.0627096",
+    "77.0751832"
+   ]
+  }
+ ],
+ "m3m - polo suites, sector 65, gurugram, haryana": [
+  {
+   "place_id": 244425514,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 349814051,
+   "lat": "28.4019252",
+   "lon": "77.0723354",
+   "category": "building",
+   "type": "yes",
+   "place_rank": 30,
+   "importance": 0.00006020981155103406,
+   "addresstype": "building",
+   "name": "M3M Polo Suites",
+   "display_name": "M3M Polo Suites, Samrat Nagbhatt Gurjar Road, M3M Golf Estate, Emerald Hills, Sector 65, Gurugram, Haryana, 122008, India",
+   "boundingbox": [
+    "28.4015133",
+    "28.4023364",
+    "77.0713264",
+    "77.0733090"
+   ]
+  }
+ ],
+ "sector 73, gurugram, haryana": [
+  {
+   "place_id": 245106796,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3611775,
+   "lat": "28.4088081",
+   "lon": "77.0161691",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 73",
+   "display_name": "Sector 73, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4008164",
+    "28.4220077",
+    "77.0092134",
+    "77.0233009"
+   ]
+  }
+ ],
+ "m3m - prive 73, sector 73, gurugram, haryana": [],
+ "m3m - prive 73, gurugram, haryana": [],
+ "m3m - st. andrews, sector 65, gurugram, haryana": [],
+ "m3m - st. andrews, gurugram, haryana": [],
+ "m3m 65th avenue, sector 66, gurugram, haryana": [],
+ "m3m 65th avenue, gurugram, haryana": [],
+ "m3m altitude, sector 65, gurugram, haryana": [],
+ "m3m altitude, gurugram, haryana": [],
+ "m3m brabus, sector 58, gurugram, haryana": [],
+ "m3m brabus, gurugram, haryana": [],
+ "m3m broadway, sector 71, gurugram, haryana": [],
+ "m3m broadway, gurugram, haryana": [],
+ "sector 74, gurugram, haryana": [
+  {
+   "place_id": 244534250,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3611776,
+   "lat": "28.4110081",
+   "lon": "77.0101209",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 74",
+   "display_name": "Sector 74, Gurugram, Haryana, 122004, India",
+   "boundingbox": [
+    "28.4008281",
+    "28.4240826",
+    "77.0000093",
+    "77.0196986"
+   ]
+  }
+ ],
+ "m3m corner walk, sector 74, gurugram, haryana": [
+  {
+   "place_id": 245106751,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1409467512,
+   "lat": "28.4022405",
+   "lon": "77.0083793",
+   "category": "landuse",
+   "type": "commercial",
+   "place_rank": 24,
+   "importance": 0.08006020981155106,
+   "addresstype": "commercial",
+   "name": "M3M Corner Walk",
+   "display_name": "M3M Corner Walk, Sector 74, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4015838",
+    "28.4030573",
+    "77.0070766",
+    "77.0098098"
+   ]
+  }
+ ],
+ "sector 111, gurugram, haryana": [
+  {
+   "place_id": 244505468,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3593131,
+   "lat": "28.5222773",
+   "lon": "77.0336203",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 111",
+   "display_name": "Sector 111, Bajghera, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.5144708",
+    "28.5300656",
+    "77.0251671",
+    "77.0424046"
+   ]
+  }
+ ],
+ "m3m elie saab, sector 111, gurugram, haryana": [],
+ "m3m elie saab, gurugram, haryana": [],
+ "m3m forestia west, gurugram, haryana": [],
+ "manesar, gurgaon, haryana": [
+  {
+   "place_id": 243173370,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 10398246,
+   "lat": "28.3247096",
+   "lon": "76.9263787",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 12,
+   "importance": 0.24006020981155105,
+   "addresstype": "county",
+   "name": "Manesar",
+   "display_name": "Manesar, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.2344140",
+    "28.4155032",
+    "76.7824858",
+    "77.0162745"
+   ]
+  },
+  {
+   "place_id": 243548870,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3631133,
+   "lat": "28.3617283",
+   "lon": "76.9402153",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 16,
+   "importance": 0.1867268764782177,
+   "addresstype": "municipality",
+   "name": "Manesar",
+   "display_name": "Manesar, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3023447",
+    "28.4090852",
+    "76.8696144",
+    "76.9671707"
+   ]
+  }
+ ],
+ "m3m gic, gurugram, haryana": [],
+ "sector 79, gurugram, haryana": [
+  {
+   "place_id": 245744257,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3613076,
+   "lat": "28.4089049",
+   "lon": "76.9155232",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 92",
+   "display_name": "Sector 92, Bhangrola, Gurugram, Haryana, 122505, India",
+   "boundingbox": [
+    "28.4012233",
+    "28.4181216",
+    "76.8993916",
+    "76.9276849"
+   ]
+  },
+  {
+   "place_id": 245661074,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3585181,
+   "lat": "28.4669197",
+   "lon": "77.0671306",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 29",
+   "display_name": "Sector 29, Gurugram, Haryana, 122022, India",
+   "boundingbox": [
+    "28.4580915",
+    "28.4780640",
+    "77.0574099",
+    "77.0741115"
+   ]
+  },
+  {
+   "place_id": 244583247,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3613075,
+   "lat": "28.4007588",
+   "lon": "76.9210802",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 91",
+   "display_name": "Sector 91, Bhangrola, Gurugram, Haryana, 122505, India",
+   "boundingbox": [
+    "28.3937778",
+    "28.4084230",
+    "76.9086172",
+    "76.9313357"
+   ]
+  },
+  {
+   "place_id": 245579898,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3593576,
+   "lat": "28.4662572",
+   "lon": "77.0142654",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 7",
+   "display_name": "Sector 7, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4570389",
+    "28.4736808",
+    "77.0054286",
+    "77.0231263"
+   ]
+  },
+  {
+   "place_id": 245452301,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3578883,
+   "lat": "28.4758035",
+   "lon": "77.0607773",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 17",
+   "display_name": "Sector 17, Gurugram, Haryana, 122007, India",
+   "boundingbox": [
+    "28.4687352",
+    "28.4850655",
+    "77.0534223",
+    "77.0704200"
+   ]
+  }
+ ],
+ "sector 79, gurgaon": [
+  {
+   "place_id": 245744257,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3613076,
+   "lat": "28.4089049",
+   "lon": "76.9155232",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 92",
+   "display_name": "Sector 92, Bhangrola, Gurugram, Haryana, 122505, India",
+   "boundingbox": [
+    "28.4012233",
+    "28.4181216",
+    "76.8993916",
+    "76.9276849"
+   ]
+  },
+  {
+   "place_id": 245661074,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3585181,
+   "lat": "28.4669197",
+   "lon": "77.0671306",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 29",
+   "display_name": "Sector 29, Gurugram, Haryana, 122022, India",
+   "boundingbox": [
+    "28.4580915",
+    "28.4780640",
+    "77.0574099",
+    "77.0741115"
+   ]
+  },
+  {
+   "place_id": 244583247,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3613075,
+   "lat": "28.4007588",
+   "lon": "76.9210802",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 91",
+   "display_name": "Sector 91, Bhangrola, Gurugram, Haryana, 122505, India",
+   "boundingbox": [
+    "28.3937778",
+    "28.4084230",
+    "76.9086172",
+    "76.9313357"
+   ]
+  },
+  {
+   "place_id": 245579898,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3593576,
+   "lat": "28.4662572",
+   "lon": "77.0142654",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 7",
+   "display_name": "Sector 7, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4570389",
+    "28.4736808",
+    "77.0054286",
+    "77.0231263"
+   ]
+  },
+  {
+   "place_id": 245452301,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3578883,
+   "lat": "28.4758035",
+   "lon": "77.0607773",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 17",
+   "display_name": "Sector 17, Gurugram, Haryana, 122007, India",
+   "boundingbox": [
+    "28.4687352",
+    "28.4850655",
+    "77.0534223",
+    "77.0704200"
+   ]
+  }
+ ],
+ "m3m golf estate 2, sector 79, gurugram, haryana": [],
+ "m3m golf estate 2, gurugram, haryana": [
+  {
+   "place_id": 246505289,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3646897,
+   "lat": "28.4011436",
+   "lon": "77.0664133",
+   "category": "place",
+   "type": "neighbourhood",
+   "place_rank": 24,
+   "importance": 0.08006020981155106,
+   "addresstype": "neighbourhood",
+   "name": "M3M Golf Estate",
+   "display_name": "M3M Golf Estate, Sector 65, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3983431",
+    "28.4059755",
+    "77.0627096",
+    "77.0751832"
+   ]
+  }
+ ],
+ "spr road, gurgaon, haryana": [
+  {
+   "place_id": 244577370,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 13369623063,
+   "lat": "28.4016113",
+   "lon": "77.0361229",
+   "category": "office",
+   "type": "educational_institution",
+   "place_rank": 30,
+   "importance": 0.00006020981155103406,
+   "addresstype": "office",
+   "name": "The Sixth Element School | SPR Campus",
+   "display_name": "The Sixth Element School | SPR Campus, The Sixth Element School, Golf Course Extension Road, The Close South, Sushant Lok III, Sector 72, Gurugram, Haryana, 122101, India",
+   "boundingbox": [
+    "28.4015613",
+    "28.4016613",
+    "77.0360729",
+    "77.0361729"
+   ]
+  }
+ ],
+ "m3m ifc, sector 66, gurugram, haryana": [
+  {
+   "place_id": 245379342,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1247281578,
+   "lat": "28.4049117",
+   "lon": "77.0584264",
+   "category": "landuse",
+   "type": "commercial",
+   "place_rank": 24,
+   "importance": 0.08006020981155106,
+   "addresstype": "commercial",
+   "name": "M3M IFC",
+   "display_name": "M3M IFC, Sector 48, Sector 66, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4044206",
+    "28.4054708",
+    "77.0579124",
+    "77.0590940"
+   ]
+  }
+ ],
+ "m3m jacob & co residences sector 111, sector 111, gurugram, haryana": [],
+ "m3m jacob & co residences sector 111, gurugram, haryana": [],
+ "m3m opus, sector 67, gurugram, haryana": [],
+ "m3m opus, gurugram, haryana": [],
+ "sector 113, gurugram, haryana": [
+  {
+   "place_id": 244215493,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3593258,
+   "lat": "28.5286649",
+   "lon": "77.0250282",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "neighbourhood",
+   "name": "Sector 113",
+   "display_name": "Sector 113, South Dwarka, Bajghera, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.5187849",
+    "28.5362180",
+    "77.0185792",
+    "77.0340512"
+   ]
+  }
+ ],
+ "m3m sco 113, sector 113, gurugram, haryana": [],
+ "m3m sco 113, gurugram, haryana": [],
+ "m3m st. andrews at scda, sector 113, gurugram, haryana": [],
+ "m3m st. andrews at scda, gurugram, haryana": [],
+ "m3m- latitude, sector 65, gurugram, haryana": [],
+ "m3m- latitude, gurugram, haryana": [],
+ "mahindra luminare, sector 59, gurugram, haryana": [],
+ "mahindra luminare, gurugram, haryana": [],
+ "max estate 360, sector 36a, gurugram, haryana": [],
+ "max estate 360, gurugram, haryana": [],
+ "max estate 361, sector 36a, gurugram, haryana": [],
+ "max estate 361, gurugram, haryana": [],
+ "sector 37d, gurugram, haryana": [
+  {
+   "place_id": 244597678,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 5817637,
+   "lat": "28.4480039",
+   "lon": "76.9697682",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 37D",
+   "display_name": "Sector 37D, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4299891",
+    "28.4615642",
+    "76.9602355",
+    "76.9842180"
+   ]
+  }
+ ],
+ "mvn aero one, sector 37d, gurugram, haryana": [],
+ "mvn aero one, gurugram, haryana": [],
+ "oberoi 360 north, sector 58, gurugram, haryana": [],
+ "oberoi 360 north, gurugram, haryana": [],
+ "sector 80, gurugram, haryana": [
+  {
+   "place_id": 244725883,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3577946,
+   "lat": "28.3702173",
+   "lon": "76.9611159",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 20,
+   "importance": 0.1467268764782177,
+   "addresstype": "suburb",
+   "name": "Sector 80",
+   "display_name": "Sector 80, Manesar, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3612242",
+    "28.3790600",
+    "76.9568038",
+    "76.9664843"
+   ]
+  }
+ ],
+ "omara by trehan iris, sector 80, gurugram, haryana": [],
+ "omara by trehan iris, gurugram, haryana": [],
+ "sector 51, gurugram, haryana": [
+  {
+   "place_id": 242355954,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3604066,
+   "lat": "28.4287011",
+   "lon": "77.0666877",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 51",
+   "display_name": "Sector 51, Samaspur, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4205318",
+    "28.4368753",
+    "77.0572988",
+    "77.0754687"
+   ]
+  }
+ ],
+ "orchid ivy floors, sector 51, gurugram, haryana": [],
+ "orchid ivy floors, gurugram, haryana": [],
+ "paras florett, sector 59, gurugram, haryana": [],
+ "paras florett, gurugram, haryana": [],
+ "paras manor, gurugram, haryana": [],
+ "gwal pahari, gurgaon, haryana": [
+  {
+   "place_id": 245616933,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1368612439,
+   "lat": "28.4326344",
+   "lon": "77.1480585",
+   "category": "landuse",
+   "type": "residential",
+   "place_rank": 24,
+   "importance": 0.08005936446173798,
+   "addresstype": "residential",
+   "name": "Gwal Pahari",
+   "display_name": "Gwal Pahari, Sohna, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4275976",
+    "28.4376741",
+    "77.1416178",
+    "77.1554252"
+   ]
+  }
+ ],
+ "paras quartier, gurugram, haryana": [],
+ "pioneer - araya, sector 62, gurugram, haryana": [],
+ "pioneer - araya, gurugram, haryana": [],
+ "sector 110, gurugram, haryana": [
+  {
+   "place_id": 245259270,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3593242,
+   "lat": "28.5069625",
+   "lon": "77.0183210",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 110",
+   "display_name": "Sector 110, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4953561",
+    "28.5187849",
+    "77.0081750",
+    "77.0269322"
+   ]
+  }
+ ],
+ "puri - diplomatic greens, sector 110, gurugram, haryana": [],
+ "puri - diplomatic greens, gurugram, haryana": [],
+ "puri - diplomatic greens villas, sector 110, gurugram, haryana": [],
+ "puri - diplomatic greens villas, gurugram, haryana": [],
+ "sector 61, gurugram, haryana": [
+  {
+   "place_id": 243141833,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2735984426,
+   "lat": "28.4110188",
+   "lon": "77.0963685",
+   "category": "place",
+   "type": "suburb",
+   "place_rank": 19,
+   "importance": 0.1467268764782177,
+   "addresstype": "suburb",
+   "name": "Sector 61",
+   "display_name": "Sector 61, Ireo City, Sohna, Gurugram, Haryana, 122011, India",
+   "boundingbox": [
+    "28.3910188",
+    "28.4310188",
+    "77.0763685",
+    "77.1163685"
+   ]
+  },
+  {
+   "place_id": 243132627,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 5807646,
+   "lat": "28.4099909",
+   "lon": "77.0968995",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 25,
+   "importance": 0.06672687647821775,
+   "addresstype": "administrative",
+   "name": "Sector 61",
+   "display_name": "Sector 61, Ireo City, Sohna, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4021852",
+    "28.4182496",
+    "77.0908692",
+    "77.1024684"
+   ]
+  }
+ ],
+ "puri aravallis, sector 61, gurugram, haryana": [],
+ "puri aravallis, gurugram, haryana": [],
+ "puri diplomatic residences, sector 111, gurugram, haryana": [],
+ "puri diplomatic residences, gurugram, haryana": [],
+ "sector 47, gurugram, haryana": [
+  {
+   "place_id": 245538006,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3606765,
+   "lat": "28.4251572",
+   "lon": "77.0475128",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 20,
+   "importance": 0.1467268764782177,
+   "addresstype": "suburb",
+   "name": "Sector 47",
+   "display_name": "Sector 47, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4171357",
+    "28.4346743",
+    "77.0370191",
+    "77.0584137"
+   ]
+  }
+ ],
+ "satya - element one, sector 47 & 49, gurugram, haryana": [],
+ "satya - element one, gurugram, haryana": [],
+ "sector 46, gurugram, haryana": [
+  {
+   "place_id": 245618669,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3603991,
+   "lat": "28.4359133",
+   "lon": "77.0584045",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 22,
+   "importance": 0.1467268764782177,
+   "addresstype": "suburb",
+   "name": "Sector 46",
+   "display_name": "Sector 46, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4276614",
+    "28.4438734",
+    "77.0492887",
+    "77.0673151"
+   ]
+  },
+  {
+   "place_id": 244783903,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 42310640,
+   "lat": "28.4319060",
+   "lon": "77.0546689",
+   "category": "highway",
+   "type": "residential",
+   "place_rank": 26,
+   "importance": 0.05339354314488438,
+   "addresstype": "residential",
+   "name": "Sector 46",
+   "display_name": "Sector 46, Gurugram, Haryana, 122018, India",
+   "boundingbox": [
+    "28.4313051",
+    "28.4325393",
+    "77.0540197",
+    "77.0552864"
+   ]
+  },
+  {
+   "place_id": 244650049,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11633737876,
+   "lat": "28.4398099",
+   "lon": "77.0544707",
+   "category": "highway",
+   "type": "bus_stop",
+   "place_rank": 30,
+   "importance": 0.00006020981155103406,
+   "addresstype": "highway",
+   "name": "Sector 46",
+   "display_name": "Sector 46, Netaji Subhash Chandra Bose Road, HUDA, Sector 46, Gurugram, Haryana, 122003, India",
+   "boundingbox": [
+    "28.4397599",
+    "28.4398599",
+    "77.0544207",
+    "77.0545207"
+   ]
+  },
+  {
+   "place_id": 245458246,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 11633737877,
+   "lat": "28.4415272",
+   "lon": "77.0556918",
+   "category": "highway",
+   "type": "bus_stop",
+   "place_rank": 30,
+   "importance": 0.00006020981155103406,
+   "addresstype": "highway",
+   "name": "Sector 46",
+   "display_name": "Sector 46, Netaji Subhash Chandra Bose Road, Sector 40, Sector 39, Gurugram, Haryana, 122022, India",
+   "boundingbox": [
+    "28.4414772",
+    "28.4415772",
+    "77.0556418",
+    "77.0557418"
+   ]
+  }
+ ],
+ "shapoorji pallonji the dualis gurgaon, sector 46, gurugram, haryana": [],
+ "shapoorji pallonji the dualis gurgaon, gurugram, haryana": [],
+ "signature global cloverdale spr, sector 71, gurugram, haryana": [],
+ "signature global cloverdale spr, gurugram, haryana": [],
+ "sector 37, gurugram, haryana": [
+  {
+   "place_id": 244991360,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 5810749,
+   "lat": "28.4342681",
+   "lon": "76.9992940",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 37",
+   "display_name": "Sector 37, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4242183",
+    "28.4440701",
+    "76.9887061",
+    "77.0101187"
+   ]
+  }
+ ],
+ "signature global dxp estate, sector 37, gurugram, haryana": [],
+ "signature global dxp estate, gurugram, haryana": [],
+ "signature global titanium, sector 71, gurugram, haryana": [],
+ "signature global titanium, gurugram, haryana": [],
+ "silverglades hightown residences, sector 28, gurugram, haryana": [],
+ "silverglades hightown residences, gurugram, haryana": [],
+ "silverglades legacy, sector 63a, gurugram, haryana": [],
+ "silverglades legacy, gurugram, haryana": [],
+ "skylo by central park, sector 33, gurugram, haryana": [],
+ "skylo by central park, gurugram, haryana": [],
+ "smartworld gic lofts, gurugram, haryana": [],
+ "smartworld one dxp, sector 113, gurugram, haryana": [],
+ "smartworld one dxp, gurugram, haryana": [],
+ "smartworld the edition, sector 66, gurugram, haryana": [],
+ "smartworld the edition, gurugram, haryana": [],
+ "smartworld wellness 67, sector 67a, gurugram, haryana": [],
+ "smartworld wellness 67, gurugram, haryana": [],
+ "sobha aranya, sector 80, gurugram, haryana": [],
+ "sobha aranya, gurugram, haryana": [],
+ "sobha crescent, sector 63a, gurugram, haryana": [],
+ "sobha crescent, gurugram, haryana": [],
+ "sector 109, gurugram, haryana": [
+  {
+   "place_id": 245531196,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3593235,
+   "lat": "28.5109205",
+   "lon": "77.0065956",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 109",
+   "display_name": "Sector 109, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.5013412",
+    "28.5184844",
+    "76.9948373",
+    "77.0186166"
+   ]
+  }
+ ],
+ "sobha international city- villa, sector 109, gurugram, haryana": [],
+ "sobha international city- villa, gurugram, haryana": [],
+ "sobha strada, sector 106, gurugram, haryana": [],
+ "sobha strada, gurugram, haryana": [],
+ "ss group - the hibiscus penthouse, sector 50, gurugram, haryana": [],
+ "ss group - the hibiscus penthouse, gurugram, haryana": [],
+ "ss group - the hibiscus villa, sector 50, gurugram, haryana": [],
+ "ss group - the hibiscus villa, gurugram, haryana": [],
+ "suncity platinum tower, sector 28, gurugram, haryana": [],
+ "suncity platinum tower, gurugram, haryana": [],
+ "tarc ishva, sector 63a, gurugram, haryana": [],
+ "tarc ishva, gurugram, haryana": [],
+ "sector 72, gurugram, haryana": [
+  {
+   "place_id": 245536839,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3611760,
+   "lat": "28.4159257",
+   "lon": "77.0290772",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 72",
+   "display_name": "Sector 72, Gurugram, Haryana, 122012, India",
+   "boundingbox": [
+    "28.4005528",
+    "28.4242889",
+    "77.0233009",
+    "77.0402781"
+   ]
+  }
+ ],
+ "tata primanti - executive floor, sector 72, gurugram, haryana": [],
+ "tata primanti - executive floor, gurugram, haryana": [],
+ "tata primanti - vertilla villa, sector 72, gurugram, haryana": [],
+ "tata primanti - vertilla villa, gurugram, haryana": [],
+ "the bungalows by max estates, sector 59, gurugram, haryana": [],
+ "the bungalows by max estates, gurugram, haryana": [],
+ "the falcon by dalcore, sector 53, gurugram, haryana": [],
+ "the falcon by dalcore, gurugram, haryana": [],
+ "the terraces by max estates, sector 36a, gurugram, haryana": [],
+ "the terraces by max estates, gurugram, haryana": [],
+ "tonino lamborghini residences by signature global, sector 71, gurugram, haryana": [],
+ "tonino lamborghini residences by signature global, gurugram, haryana": [],
+ "sector 56, gurugram, haryana": [
+  {
+   "place_id": 245091979,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "relation",
+   "osm_id": 3586262,
+   "lat": "28.4253232",
+   "lon": "77.0985157",
+   "category": "boundary",
+   "type": "administrative",
+   "place_rank": 18,
+   "importance": 0.16006020981155106,
+   "addresstype": "suburb",
+   "name": "Sector 56",
+   "display_name": "Sector 56, Gurugram, Haryana, 122011, India",
+   "boundingbox": [
+    "28.4172746",
+    "28.4314754",
+    "77.0910767",
+    "77.1053206"
+   ]
+  }
+ ],
+ "trevoc royal residences, sector 56, gurugram, haryana": [],
+ "trevoc royal residences, gurugram, haryana": [],
+ "sector 69, gurugram, haryana": [
+  {
+   "place_id": 243517623,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2735894470,
+   "lat": "28.3960701",
+   "lon": "77.0372311",
+   "category": "place",
+   "type": "suburb",
+   "place_rank": 19,
+   "importance": 0.1467268764782177,
+   "addresstype": "suburb",
+   "name": "Sector 69",
+   "display_name": "Sector 69, Gurugram, Haryana, 122101, India",
+   "boundingbox": [
+    "28.3760701",
+    "28.4160701",
+    "77.0172311",
+    "77.0572311"
+   ]
+  }
+ ],
+ "trump residences gurgaon, sector 69, gurugram, haryana": [],
+ "trump residences gurgaon, gurugram, haryana": [],
+ "trump tower, sector 65, gurugram, haryana": [],
+ "trump tower, gurugram, haryana": [],
+ "trump towers 2, sector 69, gurugram, haryana": [],
+ "trump towers 2, gurugram, haryana": [],
+ "tulip crimson, sector 70, gurugram, haryana": [],
+ "tulip crimson, gurugram, haryana": [],
+ "tulip monsella, sector 53, gurugram, haryana": [],
+ "tulip monsella, gurugram, haryana": [],
+ "vipul - aarohan, sector 53, gurugram, haryana": [],
+ "vipul - aarohan, gurugram, haryana": [],
+ "whiteland sector 103, sector 103, gurugram, haryana": [],
+ "whiteland sector 103, gurugram, haryana": [],
+ "sector 76, gurugram, haryana": [
+  {
+   "place_id": 244659825,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "node",
+   "osm_id": 2735856049,
+   "lat": "28.3910112",
+   "lon": "76.9900243",
+   "category": "place",
+   "type": "suburb",
+   "place_rank": 19,
+   "importance": 0.1467268764782177,
+   "addresstype": "suburb",
+   "name": "Sector 76",
+   "display_name": "Sector 76, Gurugram, Haryana, 122004, India",
+   "boundingbox": [
+    "28.3710112",
+    "28.4110112",
+    "76.9700243",
+    "77.0100243"
+   ]
+  }
+ ],
+ "whiteland the aspen, sector 76, gurugram, haryana": [],
+ "whiteland the aspen, gurugram, haryana": [],
+ "whiteland westin residences, sector 103, gurugram, haryana": [],
+ "whiteland westin residences, gurugram, haryana": [],
+ "6th floor tower a m3m urbana business park, sector 67, gurugram, haryana": [],
+ "6th floor tower a m3m urbana business park, gurugram, haryana": [],
+ "m3m urbana business park, sector 67 gurugram": [],
+ "m3m urbana, gurugram": [
+  {
+   "place_id": 246562793,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 273773764,
+   "lat": "28.3913678",
+   "lon": "77.0666892",
+   "category": "landuse",
+   "type": "commercial",
+   "place_rank": 24,
+   "importance": 0.08006020981155106,
+   "addresstype": "commercial",
+   "name": "Urbana",
+   "display_name": "Urbana, Sector 67, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.3891911",
+    "28.3934354",
+    "77.0637382",
+    "77.0683999"
+   ]
+  }
+ ],
+ "gwal pahri, gurugram, haryana": [],
+ "gwal pahari, gurugram, haryana": [
+  {
+   "place_id": 242354446,
+   "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+   "osm_type": "way",
+   "osm_id": 1368612439,
+   "lat": "28.4326344",
+   "lon": "77.1480585",
+   "category": "landuse",
+   "type": "residential",
+   "place_rank": 24,
+   "importance": 0.08005936446173798,
+   "addresstype": "residential",
+   "name": "Gwal Pahari",
+   "display_name": "Gwal Pahari, Sohna, Gurugram, Haryana, India",
+   "boundingbox": [
+    "28.4275976",
+    "28.4376741",
+    "77.1416178",
+    "77.1554252"
+   ]
+  }
+ ]
+}
